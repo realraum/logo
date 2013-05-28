@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1488.189"
-   height="1052.3622"
+   width="1386.7123"
+   height="1062.3223"
    id="svg2816"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -40,17 +40,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.43415836"
-     inkscape:cx="775.23047"
-     inkscape:cy="527.68694"
+     inkscape:cx="767.78101"
+     inkscape:cy="536.81157"
      inkscape:current-layer="layer1"
      id="namedview2820"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1400"
-     inkscape:window-height="995"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1440"
+     inkscape:window-height="880"
+     inkscape:window-x="-1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
   <metadata
      id="metadata2822">
     <rdf:RDF>
@@ -67,7 +71,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,308.26782)">
+     transform="translate(-7.4494614,309.10326)">
     <text
        xml:space="preserve"
        style="font-size:36.53705978px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -175,7 +179,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3027"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion3029"><rect
            id="rect3031"
            width="244.15054"
@@ -185,7 +189,7 @@
          id="flowPara3033" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3035"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion3037"><rect
            id="rect3039"
            width="283.30676"
