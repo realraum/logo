@@ -1,4 +1,4 @@
-SPDF := plakat.pdf
+SPDF := plakat.pdf sticker.pdf
 
 all: $(SPDF)
 
