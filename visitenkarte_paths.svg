@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="85mm"
+   height="55mm"
+   viewBox="0 0 301.1811 194.88188"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="visitenkarte_paths.svg"
+   inkscape:export-filename="/home/rdorfer/realraum/logo/visitenkarte.png"
+   inkscape:export-xdpi="448.23532"
+   inkscape:export-ydpi="448.23532">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="318.89764 : 253.93899 : 1"
+       inkscape:vp_z="637.79529 : 380.90848 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 380.90848 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="64.708516"
+     inkscape:cy="68.747735"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-857.48032)">
+    <path
+       style="fill:#761407;fill-opacity:1;stroke:none"
+       d="m 248.05965,871.40838 c -20.10214,0.25491 -36.33737,16.6568 -36.33737,36.81857 0,20.32053 16.49721,36.80559 36.81823,36.80559 20.32103,0 36.80524,-16.48506 36.80524,-36.80559 0,-0.15876 0.003,-0.32257 0,-0.48086 l 0,-29.00779 c -0.0806,-4.04077 -3.36767,-7.29948 -7.42083,-7.32992 l -29.38441,0 -0.16895,0 c -0.1022,0 -0.20956,-10e-4 -0.31191,0 z m 28.0588,3.14511 c 0.89836,10e-6 1.6719,0.19284 2.27433,0.61082 0.60956,0.41052 0.96172,1.07203 0.96172,1.80649 0,0.43456 -0.11509,0.87128 -0.31191,1.29963 -0.18584,0.39355 -0.39187,0.73216 -0.62381,1.00072 -0.16984,0.1877 -0.34834,0.37914 -0.53285,0.55884 0.5176,0.29063 0.95525,0.65704 1.28662,1.11769 l 0.013,0 c 0.002,0.003 -0.002,0.0232 0,0.026 0.39168,0.52694 0.58483,1.15587 0.58483,1.83248 0,1.24991 -0.51855,2.30174 -1.49456,3.00215 -0.93905,0.68191 -2.09512,1.04867 -3.418,1.09169 0,0 -0.0109,-4e-4 -0.013,0 -0.32654,0 -0.64858,-0.16486 -0.87074,-0.40288 -0.17569,-0.18919 -0.33791,-0.39484 -0.33791,-0.70181 0,-0.1414 0.006,-0.28297 0.039,-0.41588 l 0.10397,-0.36389 0.3639,-0.013 c 1.14229,-0.0384 1.94938,-0.28698 2.43028,-0.66281 0.48092,-0.37583 0.7018,-0.87369 0.7018,-1.66353 0,-0.77188 -0.30641,-1.2284 -1.14366,-1.59855 -0.21736,-0.0978 -0.38676,-0.18615 -0.53285,-0.28592 -0.14609,-0.0998 -0.34067,-0.18373 -0.37689,-0.54584 l -0.013,-0.16896 0.091,-0.14295 c 0.12209,-0.18992 0.31563,-0.43595 0.62382,-0.80578 l 0,-0.013 c 0.29571,-0.34341 0.5277,-0.66639 0.68879,-0.96173 l 0,-0.013 c 0.1522,-0.26434 0.22093,-0.5164 0.22094,-0.80578 -1e-5,-0.25802 -0.0643,-0.40227 -0.23393,-0.55884 -0.14648,-0.1352 -0.37931,-0.24692 -0.80577,-0.24693 -0.0747,10e-6 -0.35209,0.0458 -0.74078,0.14296 -0.20521,0.0513 -0.36872,0.0898 -0.49385,0.11697 -0.12514,0.0272 -0.15649,0.052 -0.32491,0.052 -0.30913,5e-5 -0.42388,-0.1095 -0.58483,-0.22093 l -0.013,-0.013 -0.013,-0.013 c -0.18399,-0.15331 -0.36389,-0.37597 -0.36389,-0.67581 0,-0.33435 0.21368,-0.54227 0.40288,-0.67581 0.18919,-0.13354 0.40808,-0.24631 0.6888,-0.3509 0.57893,-0.22265 1.16873,-0.33789 1.76748,-0.33791 z m -27.39599,5.2765 c 6.85476,0.0579 13.63905,2.70052 18.77951,7.22596 7.69466,6.65022 10.93457,17.69565 8.75944,27.5652 -1.90116,9.19025 -9.00197,16.85173 -17.71382,20.1313 -9.04077,3.64848 -19.90713,1.9033 -27.51296,-4.13283 -8.44219,-6.45118 -12.52987,-17.90353 -10.38396,-28.28 2.55001,-12.57313 14.55219,-22.43685 27.40898,-22.49663 0.22124,-0.004 0.44169,-0.0149 0.66281,-0.013 z m 12.26841,10.55302 c -2.57335,3e-5 -5.66275,0.75074 -9.27929,2.24836 -3.61657,1.49768 -5.63895,2.2484 -6.05622,2.24836 -0.0696,-0.38824 -0.10399,-1.05843 -0.10397,-2.00143 -2e-5,-1.22027 -1.73404,-1.83245 -5.21148,-1.83248 -1.59964,3e-5 -2.07798,0.39381 -2.49527,1.78049 -0.3323,1.12174 -0.27855,1.9791 -0.3249,3.00215 -0.0696,2.47764 -0.039,2.21772 -0.039,3.32706 0,0.0173 -3e-5,0.01 0,0.026 -0.004,0.0137 -0.008,0.0206 -0.013,0.052 l 0.052,19.19557 c 0.002,5.22502 0.19575,8.00579 1.0267,8.44761 0.41728,0.22187 0.33009,0.45487 2.62523,0.45487 2.36465,0 3.82331,-0.3706 4.37972,-1.09169 0.27818,-0.44374 0.41586,-0.88188 0.41588,-1.32563 0.0695,-0.44374 0.10395,-0.9979 0.10397,-1.66353 -2e-5,-0.72108 -2e-5,-1.19472 0,-1.41659 l 0,-1.24765 -0.20794,-14.14 0,-5.40647 c 0.41727,-0.55466 1.18752,-1.00578 2.30032,-1.33862 0.55638,-0.16638 1.07268,-0.32743 1.55955,-0.49386 0.55637,-0.16638 1.22336,-0.30492 1.98842,-0.41588 0.83457,-0.16638 1.52296,-0.28241 2.07939,-0.33791 0.55636,-0.11091 1.32661,-0.22694 2.30032,-0.3379 0.97366,-0.16638 1.6965,-0.26941 2.18336,-0.32491 0.55637,-0.0554 1.36104,-0.13596 2.4043,-0.24693 1.11276,-0.11091 1.87002,-0.20443 2.28733,-0.25993 0.48682,-0.77653 0.74075,-1.90735 0.74079,-3.40503 -4e-5,-1.49762 -0.21956,-2.44488 -0.63682,-2.8332 -0.34778,-0.44371 -1.03619,-0.66278 -2.07939,-0.66281 z"
+       id="path3021"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.80519629px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="45.193985"
+       y="939.07941"
+       id="text3529"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3531"
+         x="45.193985"
+         y="939.07941"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS'" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.63598156px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="49.710831"
+       y="938.67163"
+       id="text3537"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3539"
+         x="49.710831"
+         y="938.67163" /></text>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.76538277px;line-height:125%;font-family:Cagliostro;-inkscape-font-specification:Cagliostro;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3373">
+      <path
+         d="m 44.693355,965.10239 c 0,-0.99 -0.45,-1.58625 -1.49625,-1.99125 0.7425,-0.34875 1.13625,-0.95625 1.13625,-1.78875 0,-1.1925 -0.8775,-2.08125 -2.43,-2.08125 l -3.33,0 0,8.20125 3.70125,0 c 1.47375,0 2.41875,-0.99 2.41875,-2.34 z m -1.40625,-3.63375 c 0,0.8325 -0.48375,1.305 -1.6425,1.305 l -2.025,0 0,-2.61 2.025,0 c 1.15875,0 1.6425,0.4725 1.6425,1.305 z m 0.36,3.645 c 0,0.7875 -0.48375,1.40625 -1.47375,1.40625 l -2.55375,0 0,-2.82375 2.55375,0 c 0.99,0 1.47375,0.61875 1.47375,1.4175 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.21718693px;font-family:Cagliostro;-inkscape-font-specification:Cagliostro"
+         id="path4458" />
+      <path
+         d="m 48.810503,962.36864 0,-0.95625 c -0.1575,-0.0225 -0.23625,-0.0337 -0.36,-0.0337 -0.6075,0 -1.06875,0.36 -1.60875,1.2375 l 0,-1.06875 -0.855,0 0,5.895 0.93375,0 0,-3.06 c 0,-1.3275 0.43875,-1.99125 1.89,-2.01375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4460" />
+      <path
+         d="m 54.628159,964.53989 c 0,-2.03625 -0.97875,-3.16125 -2.6775,-3.16125 -1.65375,0 -2.655,1.13625 -2.655,3.11625 0,1.98 0.99,3.11625 2.66625,3.11625 1.65375,0 2.66625,-1.13625 2.66625,-3.07125 z m -0.97875,-0.0113 c 0,1.38375 -0.6525,2.21625 -1.6875,2.21625 -1.04625,0 -1.6875,-0.82125 -1.6875,-2.25 0,-1.4175 0.64125,-2.25 1.6875,-2.25 1.0575,0 1.6875,0.82125 1.6875,2.28375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4462" />
+      <path
+         d="m 60.519116,965.41739 -0.945,0 c -0.1575,0.945 -0.64125,1.3275 -1.44,1.3275 -1.035,0 -1.65375,-0.79875 -1.65375,-2.19375 0,-1.47375 0.6075,-2.30625 1.63125,-2.30625 0.7875,0 1.2825,0.46125 1.395,1.2825 l 0.945,0 c -0.1125,-1.44 -1.0125,-2.14875 -2.32875,-2.14875 -1.58625,0 -2.62125,1.215 -2.62125,3.1725 0,1.90125 1.0125,3.06 2.61,3.06 1.40625,0 2.295,-0.84375 2.4075,-2.19375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4464" />
+      <path
+         d="m 66.491284,967.44239 -2.4075,-3.85875 2.0475,-2.03625 -1.20375,0 -2.4975,2.4975 0,-4.80375 -0.93375,0 0,8.20125 0.93375,0 0,-2.295 0.91125,-0.9 1.99125,3.195 1.15875,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4466" />
+      <path
+         d="m 75.018784,967.44239 0,-4.42125 c 0,-1.0575 -0.585,-1.6425 -1.6875,-1.6425 -0.7875,0 -1.26,0.23625 -1.81125,0.9 -0.34875,-0.63 -0.82125,-0.9 -1.58625,-0.9 -0.7875,0 -1.305,0.2925 -1.81125,1.00125 l 0,-0.8325 -0.855,0 0,5.895 0.93375,0 0,-3.70125 c 0,-0.855 0.61875,-1.54125 1.38375,-1.54125 0.6975,0 1.09125,0.4275 1.09125,1.18125 l 0,4.06125 0.93375,0 0,-3.70125 c 0,-0.855 0.63,-1.54125 1.395,-1.54125 0.68625,0 1.08,0.43875 1.08,1.18125 l 0,4.06125 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4468" />
+      <path
+         d="m 81.869859,967.41989 0,-0.70875 c -0.10125,0.0225 -0.14625,0.0225 -0.2025,0.0225 -0.32625,0 -0.50625,-0.16875 -0.50625,-0.46125 l 0,-3.285 c 0,-1.04625 -0.765,-1.60875 -2.21625,-1.60875 -1.42875,0 -2.30625,0.55125 -2.3625,1.9125 l 0.945,0 c 0.07875,-0.72 0.50625,-1.04625 1.38375,-1.04625 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.39375 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.16875 -1.53,0.21375 -1.89,0.36 -0.68625,0.28125 -1.035,0.81 -1.035,1.53 0,1.06875 0.7425,1.69875 1.935,1.69875 0.75375,0 1.485,-0.315 2.0025,-0.86625 0.10125,0.45 0.50625,0.77625 0.9675,0.77625 0.19125,0 0.3375,-0.0225 0.64125,-0.10125 z m -1.6425,-2.01375 c 0,0.84375 -0.855,1.38375 -1.76625,1.38375 -0.73125,0 -1.15875,-0.25875 -1.15875,-0.9 0,-0.61875 0.41625,-0.88875 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.32625 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4470" />
+      <path
+         d="m 87.592066,967.44239 0,-4.455 c 0,-0.97875 -0.73125,-1.60875 -1.8675,-1.60875 -0.8775,0 -1.44,0.3375 -1.9575,1.15875 l 0,-0.99 -0.86625,0 0,5.895 0.93375,0 0,-3.25125 c 0,-1.20375 0.6525,-1.99125 1.60875,-1.99125 0.7425,0 1.215,0.45 1.215,1.15875 l 0,4.08375 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4472" />
+      <path
+         d="m 93.854273,967.44239 0,-4.455 c 0,-0.97875 -0.73125,-1.60875 -1.8675,-1.60875 -0.8775,0 -1.44,0.3375 -1.9575,1.15875 l 0,-0.99 -0.86625,0 0,5.895 0.93375,0 0,-3.25125 c 0,-1.20375 0.6525,-1.99125 1.60875,-1.99125 0.7425,0 1.215,0.45 1.215,1.15875 l 0,4.08375 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4474" />
+      <path
+         d="m 100.13898,966.47489 0,-4.9275 -0.86625,0 0,0.855 c -0.4725,-0.6975 -1.04625,-1.02375 -1.8,-1.02375 -1.49625,0 -2.50875,1.26 -2.50875,3.1725 0,1.85625 1.04625,3.06 2.43,3.06 0.7425,0 1.26,-0.315 1.87875,-1.0575 l 0,0.39375 c 0,1.56375 -0.64125,2.16 -1.7325,2.16 -0.7425,0 -1.31625,-0.27 -1.42875,-0.99 l -0.95625,0 c 0.10125,1.11375 0.9675,1.7775 2.35125,1.7775 1.845,0 2.6325,-0.82125 2.6325,-3.42 z m -0.95625,-1.94625 c 0,1.40625 -0.6075,2.21625 -1.5975,2.21625 -1.02375,0 -1.6425,-0.82125 -1.6425,-2.25 0,-1.4175 0.63,-2.25 1.63125,-2.25 1.0125,0 1.60875,0.855 1.60875,2.28375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4476" />
+      <path
+         d="m 106.85277,967.41989 0,-0.70875 c -0.10125,0.0225 -0.14625,0.0225 -0.2025,0.0225 -0.32625,0 -0.50625,-0.16875 -0.50625,-0.46125 l 0,-3.285 c 0,-1.04625 -0.765,-1.60875 -2.21625,-1.60875 -1.42875,0 -2.30625,0.55125 -2.3625,1.9125 l 0.945,0 c 0.0787,-0.72 0.50625,-1.04625 1.38375,-1.04625 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.39375 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.16875 -1.53,0.21375 -1.89,0.36 -0.68625,0.28125 -1.035,0.81 -1.035,1.53 0,1.06875 0.7425,1.69875 1.935,1.69875 0.75375,0 1.485,-0.315 2.0025,-0.86625 0.10125,0.45 0.50625,0.77625 0.9675,0.77625 0.19125,0 0.3375,-0.0225 0.64125,-0.10125 z m -1.6425,-2.01375 c 0,0.84375 -0.855,1.38375 -1.76625,1.38375 -0.73125,0 -1.15875,-0.25875 -1.15875,-0.9 0,-0.61875 0.41625,-0.88875 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.32625 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4478" />
+      <path
+         d="m 112.25998,965.78864 c 0,-0.8775 -0.495,-1.31625 -1.665,-1.5975 l -0.9,-0.21375 c -0.765,-0.18 -1.09125,-0.4275 -1.09125,-0.84375 0,-0.54 0.48375,-0.88875 1.24875,-0.88875 0.75375,0 1.15875,0.32625 1.18125,0.945 l 0.99,0 c -0.0113,-1.15875 -0.77625,-1.81125 -2.1375,-1.81125 -1.3725,0 -2.26125,0.70875 -2.26125,1.8 0,0.9225 0.4725,1.36125 1.8675,1.69875 l 0.8775,0.21375 c 0.6525,0.1575 0.91125,0.34875 0.91125,0.77625 0,0.55125 -0.55125,0.8775 -1.3725,0.8775 -0.84375,0 -1.31625,-0.2025 -1.44,-1.1025 l -0.99,0 c 0.045,1.36125 0.81,1.96875 2.35125,1.96875 1.485,0 2.43,-0.68625 2.43,-1.8225 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4480" />
+      <path
+         d="m 117.88498,965.78864 c 0,-0.8775 -0.495,-1.31625 -1.665,-1.5975 l -0.9,-0.21375 c -0.765,-0.18 -1.09125,-0.4275 -1.09125,-0.84375 0,-0.54 0.48375,-0.88875 1.24875,-0.88875 0.75375,0 1.15875,0.32625 1.18125,0.945 l 0.99,0 c -0.0113,-1.15875 -0.77625,-1.81125 -2.1375,-1.81125 -1.3725,0 -2.26125,0.70875 -2.26125,1.8 0,0.9225 0.4725,1.36125 1.8675,1.69875 l 0.8775,0.21375 c 0.6525,0.1575 0.91125,0.34875 0.91125,0.77625 0,0.55125 -0.55125,0.8775 -1.3725,0.8775 -0.84375,0 -1.31625,-0.2025 -1.44,-1.1025 l -0.99,0 c 0.045,1.36125 0.81,1.96875 2.35125,1.96875 1.485,0 2.43,-0.68625 2.43,-1.8225 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4482" />
+      <path
+         d="m 124.11748,964.76489 c 0,-0.855 -0.0675,-1.395 -0.23625,-1.83375 -0.3825,-0.9675 -1.2825,-1.5525 -2.385,-1.5525 -1.6425,0 -2.7,1.215 -2.7,3.15 0,1.935 1.02375,3.0825 2.6775,3.0825 1.35,0 2.28375,-0.765 2.52,-1.9575 l -0.945,0 c -0.25875,0.77625 -0.7875,1.09125 -1.54125,1.09125 -0.97875,0 -1.71,-0.63 -1.7325,-1.98 l 4.3425,0 z m -1.00125,-0.8325 c 0,0 0,0.045 -0.0113,0.0675 l -3.3075,0 c 0.0788,-1.04625 0.7425,-1.755 1.6875,-1.755 0.9225,0 1.63125,0.765 1.63125,1.6875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4484" />
+      <path
+         d="m 131.6323,967.44239 0,-7.97625 -0.6525,0 c -0.34875,1.22625 -0.57375,1.395 -2.10375,1.58625 l 0,0.70875 1.76625,0 0,5.68125 0.99,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4486" />
+      <path
+         d="m 139.76201,964.79864 c 0,-1.575 -1.04625,-2.61 -2.57625,-2.61 -0.5625,0 -1.0125,0.14625 -1.47375,0.48375 l 0.315,-2.05875 3.31875,0 0,-0.97875 -4.1175,0 -0.59625,4.17375 0.91125,0 c 0.46125,-0.55125 0.84375,-0.7425 1.4625,-0.7425 1.06875,0 1.74375,0.68625 1.74375,1.8675 0,1.1475 -0.66375,1.8 -1.74375,1.8 -0.86625,0 -1.395,-0.43875 -1.63125,-1.33875 l -0.99,0 c 0.32625,1.58625 1.22625,2.21625 2.64375,2.21625 1.60875,0 2.73375,-1.125 2.73375,-2.8125 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4488" />
+      <path
+         d="m 43.455855,979.25489 c 0,-0.88875 -0.45,-1.5075 -1.3725,-1.94625 0.82125,-0.495 1.09125,-0.9 1.09125,-1.65375 0,-1.24875 -0.97875,-2.12625 -2.39625,-2.12625 -1.40625,0 -2.39625,0.8775 -2.39625,2.12625 0,0.7425 0.27,1.1475 1.08,1.65375 -0.91125,0.43875 -1.36125,1.0575 -1.36125,1.935 0,1.4625 1.1025,2.43 2.6775,2.43 1.575,0 2.6775,-0.9675 2.6775,-2.41875 z m -1.29375,-3.5775 c 0,0.7425 -0.55125,1.2375 -1.38375,1.2375 -0.8325,0 -1.38375,-0.495 -1.38375,-1.24875 0,-0.765 0.55125,-1.26 1.38375,-1.26 0.84375,0 1.38375,0.495 1.38375,1.27125 z m 0.28125,3.58875 c 0,0.945 -0.675,1.53 -1.6875,1.53 -0.9675,0 -1.6425,-0.59625 -1.6425,-1.53 0,-0.93375 0.675,-1.51875 1.665,-1.51875 0.99,0 1.665,0.585 1.665,1.51875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4490" />
+      <path
+         d="m 49.650562,977.66864 c 0,-2.7675 -0.8775,-4.14 -2.61,-4.14 -1.72125,0 -2.61,1.395 -2.61,4.0725 0,2.68875 0.9,4.0725 2.61,4.0725 1.6875,0 2.61,-1.38375 2.61,-4.005 z m -1.0125,-0.09 c 0,2.26125 -0.5175,3.27375 -1.62,3.27375 -1.04625,0 -1.575,-1.0575 -1.575,-3.24 0,-2.1825 0.52875,-3.20625 1.5975,-3.20625 1.06875,0 1.5975,1.035 1.5975,3.1725 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4492" />
+      <path
+         d="m 54.112769,981.50489 0,-7.97625 -0.6525,0 c -0.34875,1.22625 -0.57375,1.395 -2.10375,1.58625 l 0,0.70875 1.76625,0 0,5.68125 0.99,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4494" />
+      <path
+         d="m 62.174976,977.66864 c 0,-2.7675 -0.8775,-4.14 -2.61,-4.14 -1.72125,0 -2.61,1.395 -2.61,4.0725 0,2.68875 0.9,4.0725 2.61,4.0725 1.6875,0 2.61,-1.38375 2.61,-4.005 z m -1.0125,-0.09 c 0,2.26125 -0.5175,3.27375 -1.62,3.27375 -1.04625,0 -1.575,-1.0575 -1.575,-3.24 0,-2.1825 0.52875,-3.20625 1.5975,-3.20625 1.06875,0 1.5975,1.035 1.5975,3.1725 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4496" />
+      <path
+         d="m 73.8298,981.50489 0,-4.33125 -3.42,0 0,0.9225 2.4975,0 0,0.225 c 0,1.4625 -1.08,2.46375 -2.57625,2.46375 -1.85625,0 -2.93625,-1.35 -2.93625,-3.3525 0,-2.01375 1.1475,-3.40875 2.88,-3.40875 1.24875,0 2.14875,0.70875 2.37375,1.76625 l 1.06875,0 c -0.2925,-1.665 -1.5525,-2.68875 -3.43125,-2.68875 -2.50875,0 -3.9375,1.935 -3.9375,4.3875 0,2.52 1.54125,4.21875 3.7575,4.21875 1.11375,0 2.0025,-0.39375 2.80125,-1.2825 l 0.25875,1.08 0.66375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4498" />
+      <path
+         d="m 78.209917,976.43114 0,-0.95625 c -0.1575,-0.0225 -0.23625,-0.0337 -0.36,-0.0337 -0.6075,0 -1.06875,0.36 -1.60875,1.2375 l 0,-1.06875 -0.855,0 0,5.895 0.93375,0 0,-3.06 c 0,-1.3275 0.43875,-1.99125 1.89,-2.01375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4500" />
+      <path
+         d="m 84.308823,981.48239 0,-0.70875 c -0.10125,0.0225 -0.14625,0.0225 -0.2025,0.0225 -0.32625,0 -0.50625,-0.16875 -0.50625,-0.46125 l 0,-3.285 c 0,-1.04625 -0.765,-1.60875 -2.21625,-1.60875 -1.42875,0 -2.30625,0.55125 -2.3625,1.9125 l 0.945,0 c 0.07875,-0.72 0.50625,-1.04625 1.38375,-1.04625 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.39375 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.16875 -1.53,0.21375 -1.89,0.36 -0.68625,0.28125 -1.035,0.81 -1.035,1.53 0,1.06875 0.7425,1.69875 1.935,1.69875 0.75375,0 1.485,-0.315 2.0025,-0.86625 0.10125,0.45 0.50625,0.77625 0.9675,0.77625 0.19125,0 0.3375,-0.0225 0.64125,-0.10125 z m -1.6425,-2.01375 c 0,0.84375 -0.855,1.38375 -1.76625,1.38375 -0.73125,0 -1.15875,-0.25875 -1.15875,-0.9 0,-0.61875 0.41625,-0.88875 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.32625 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4502" />
+      <path
+         d="m 89.69353,981.50489 0,-0.82125 -3.65625,0 3.49875,-4.24125 0,-0.8325 -4.39875,0 0,0.82125 3.285,0 -3.52125,4.23 0,0.84375 4.7925,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4504" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:36.50628281px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.08582687;stroke-miterlimit:4;stroke-dasharray:none"
+       x="110.72934"
+       y="913.69617"
+       id="text2849"><tspan
+         sodipodi:role="line"
+         id="tspan2851"
+         x="110.72934"
+         y="913.69617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';letter-spacing:1.25395417px;word-spacing:0px;stroke:#000000;stroke-width:1.55034435;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></text>
+    <g
+       style="font-style:normal;font-weight:normal;font-size:28.20767403px;line-height:150%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#761407;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3405">
+      <path
+         d="m 227.17527,970.76581 0,-8.20125 -1.04625,0 0,3.54375 -4.21875,0 0,-3.54375 -1.04625,0 0,8.20125 1.04625,0 0,-3.735 4.21875,0 0,3.735 1.04625,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4361" />
+      <path
+         d="m 234.0789,970.74331 0,-0.70875 c -0.10125,0.0225 -0.14625,0.0225 -0.2025,0.0225 -0.32625,0 -0.50625,-0.16875 -0.50625,-0.46125 l 0,-3.285 c 0,-1.04625 -0.765,-1.60875 -2.21625,-1.60875 -1.42875,0 -2.30625,0.55125 -2.3625,1.9125 l 0.945,0 c 0.0787,-0.72 0.50625,-1.04625 1.38375,-1.04625 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.39375 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.16875 -1.53,0.21375 -1.89,0.36 -0.68625,0.28125 -1.035,0.81 -1.035,1.53 0,1.06875 0.7425,1.69875 1.935,1.69875 0.75375,0 1.485,-0.315 2.0025,-0.86625 0.10125,0.45 0.50625,0.77625 0.9675,0.77625 0.19125,0 0.3375,-0.0225 0.64125,-0.10125 z m -1.6425,-2.01375 c 0,0.84375 -0.855,1.38375 -1.76625,1.38375 -0.73125,0 -1.15875,-0.25875 -1.15875,-0.9 0,-0.61875 0.41625,-0.88875 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.32625 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4363" />
+      <path
+         d="m 239.68861,968.74081 -0.945,0 c -0.1575,0.945 -0.64125,1.3275 -1.44,1.3275 -1.035,0 -1.65375,-0.79875 -1.65375,-2.19375 0,-1.47375 0.6075,-2.30625 1.63125,-2.30625 0.7875,0 1.2825,0.46125 1.395,1.2825 l 0.945,0 c -0.1125,-1.44 -1.0125,-2.14875 -2.32875,-2.14875 -1.58625,0 -2.62125,1.215 -2.62125,3.1725 0,1.90125 1.0125,3.06 2.61,3.06 1.40625,0 2.295,-0.84375 2.4075,-2.19375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4365" />
+      <path
+         d="m 245.66078,970.76581 -2.4075,-3.85875 2.0475,-2.03625 -1.20375,0 -2.4975,2.4975 0,-4.80375 -0.93375,0 0,8.20125 0.93375,0 0,-2.295 0.91125,-0.9 1.99125,3.195 1.15875,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4367" />
+      <path
+         d="m 251.1898,968.08831 c 0,-0.855 -0.0675,-1.395 -0.23625,-1.83375 -0.3825,-0.9675 -1.2825,-1.5525 -2.385,-1.5525 -1.6425,0 -2.7,1.215 -2.7,3.15 0,1.935 1.02375,3.0825 2.6775,3.0825 1.35,0 2.28375,-0.765 2.52,-1.9575 l -0.945,0 c -0.25875,0.77625 -0.7875,1.09125 -1.54125,1.09125 -0.97875,0 -1.71,-0.63 -1.7325,-1.98 l 4.3425,0 z m -1.00125,-0.8325 c 0,0 0,0.045 -0.0112,0.0675 l -3.3075,0 c 0.0788,-1.04625 0.7425,-1.755 1.6875,-1.755 0.9225,0 1.63125,0.765 1.63125,1.6875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4369" />
+      <path
+         d="m 255.29201,965.69206 0,-0.95625 c -0.1575,-0.0225 -0.23625,-0.0338 -0.36,-0.0338 -0.6075,0 -1.06875,0.36 -1.60875,1.2375 l 0,-1.06875 -0.855,0 0,5.895 0.93375,0 0,-3.06 c 0,-1.3275 0.43875,-1.99125 1.89,-2.01375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4371" />
+      <path
+         d="m 260.66775,969.11206 c 0,-0.8775 -0.495,-1.31625 -1.665,-1.5975 l -0.9,-0.21375 c -0.765,-0.18 -1.09125,-0.4275 -1.09125,-0.84375 0,-0.54 0.48375,-0.88875 1.24875,-0.88875 0.75375,0 1.15875,0.32625 1.18125,0.945 l 0.99,0 c -0.0113,-1.15875 -0.77625,-1.81125 -2.1375,-1.81125 -1.3725,0 -2.26125,0.70875 -2.26125,1.8 0,0.9225 0.4725,1.36125 1.8675,1.69875 l 0.8775,0.21375 c 0.6525,0.1575 0.91125,0.34875 0.91125,0.77625 0,0.55125 -0.55125,0.8775 -1.3725,0.8775 -0.84375,0 -1.31625,-0.2025 -1.44,-1.1025 l -0.99,0 c 0.045,1.36125 0.81,1.96875 2.35125,1.96875 1.485,0 2.43,-0.68625 2.43,-1.8225 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4373" />
+      <path
+         d="m 267.01275,967.87456 c 0,-1.98 -0.9675,-3.1725 -2.53125,-3.1725 -0.79875,0 -1.44,0.36 -1.87875,1.0575 l 0,-0.88875 -0.855,0 0,8.3475 0.93375,0 0,-3.16125 c 0.495,0.6075 1.04625,0.8775 1.81125,0.8775 1.51875,0 2.52,-1.18125 2.52,-3.06 z m -0.97875,-0.0225 c 0,1.33875 -0.68625,2.205 -1.71,2.205 -0.99,0 -1.6425,-0.81 -1.6425,-2.19375 0,-1.38375 0.6525,-2.28375 1.6425,-2.28375 1.035,0 1.71,0.86625 1.71,2.2725 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4375" />
+      <path
+         d="m 273.40995,970.74331 0,-0.70875 c -0.10125,0.0225 -0.14625,0.0225 -0.2025,0.0225 -0.32625,0 -0.50625,-0.16875 -0.50625,-0.46125 l 0,-3.285 c 0,-1.04625 -0.765,-1.60875 -2.21625,-1.60875 -1.42875,0 -2.30625,0.55125 -2.3625,1.9125 l 0.945,0 c 0.0788,-0.72 0.50625,-1.04625 1.38375,-1.04625 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.39375 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.16875 -1.53,0.21375 -1.89,0.36 -0.68625,0.28125 -1.035,0.81 -1.035,1.53 0,1.06875 0.7425,1.69875 1.935,1.69875 0.75375,0 1.485,-0.315 2.0025,-0.86625 0.10125,0.45 0.50625,0.77625 0.9675,0.77625 0.19125,0 0.3375,-0.0225 0.64125,-0.10125 z m -1.6425,-2.01375 c 0,0.84375 -0.855,1.38375 -1.76625,1.38375 -0.73125,0 -1.15875,-0.25875 -1.15875,-0.9 0,-0.61875 0.41625,-0.88875 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.32625 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4377" />
+      <path
+         d="m 279.01966,968.74081 -0.945,0 c -0.1575,0.945 -0.64125,1.3275 -1.44,1.3275 -1.035,0 -1.65375,-0.79875 -1.65375,-2.19375 0,-1.47375 0.6075,-2.30625 1.63125,-2.30625 0.7875,0 1.2825,0.46125 1.395,1.2825 l 0.945,0 c -0.1125,-1.44 -1.0125,-2.14875 -2.32875,-2.14875 -1.58625,0 -2.62125,1.215 -2.62125,3.1725 0,1.90125 1.0125,3.06 2.61,3.06 1.40625,0 2.295,-0.84375 2.4075,-2.19375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4379" />
+      <path
+         d="m 285.04966,968.08831 c 0,-0.855 -0.0675,-1.395 -0.23625,-1.83375 -0.3825,-0.9675 -1.2825,-1.5525 -2.385,-1.5525 -1.6425,0 -2.7,1.215 -2.7,3.15 0,1.935 1.02375,3.0825 2.6775,3.0825 1.35,0 2.28375,-0.765 2.52,-1.9575 l -0.945,0 c -0.25875,0.77625 -0.7875,1.09125 -1.54125,1.09125 -0.97875,0 -1.71,-0.63 -1.7325,-1.98 l 4.3425,0 z m -1.00125,-0.8325 c 0,0 0,0.045 -0.0113,0.0675 l -3.3075,0 c 0.0787,-1.04625 0.7425,-1.755 1.6875,-1.755 0.9225,0 1.63125,0.765 1.63125,1.6875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4381" />
+      <path
+         d="m 232.92999,987.64081 0,-8.20125 -1.45125,0 -2.385,7.14375 -2.43,-7.14375 -1.45125,0 0,8.20125 0.99,0 0,-6.87375 2.32875,6.87375 1.1025,0 2.30625,-6.87375 0,6.87375 0.99,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4383" />
+      <path
+         d="m 239.76982,987.61831 0,-0.70875 c -0.10125,0.0225 -0.14625,0.0225 -0.2025,0.0225 -0.32625,0 -0.50625,-0.16875 -0.50625,-0.46125 l 0,-3.285 c 0,-1.04625 -0.765,-1.60875 -2.21625,-1.60875 -1.42875,0 -2.30625,0.55125 -2.3625,1.9125 l 0.945,0 c 0.0787,-0.72 0.50625,-1.04625 1.38375,-1.04625 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.39375 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.16875 -1.53,0.21375 -1.89,0.36 -0.68625,0.28125 -1.035,0.81 -1.035,1.53 0,1.06875 0.7425,1.69875 1.935,1.69875 0.75375,0 1.485,-0.315 2.0025,-0.86625 0.10125,0.45 0.50625,0.77625 0.9675,0.77625 0.19125,0 0.3375,-0.0225 0.64125,-0.10125 z m -1.6425,-2.01375 c 0,0.84375 -0.855,1.38375 -1.76625,1.38375 -0.73125,0 -1.15875,-0.25875 -1.15875,-0.9 0,-0.61875 0.41625,-0.88875 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.32625 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4385" />
+      <path
+         d="m 245.66078,987.64081 -2.4075,-3.85875 2.0475,-2.03625 -1.20375,0 -2.4975,2.4975 0,-4.80375 -0.93375,0 0,8.20125 0.93375,0 0,-2.295 0.91125,-0.9 1.99125,3.195 1.15875,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4387" />
+      <path
+         d="m 251.1898,984.96331 c 0,-0.855 -0.0675,-1.395 -0.23625,-1.83375 -0.3825,-0.9675 -1.2825,-1.5525 -2.385,-1.5525 -1.6425,0 -2.7,1.215 -2.7,3.15 0,1.935 1.02375,3.0825 2.6775,3.0825 1.35,0 2.28375,-0.765 2.52,-1.9575 l -0.945,0 c -0.25875,0.77625 -0.7875,1.09125 -1.54125,1.09125 -0.97875,0 -1.71,-0.63 -1.7325,-1.98 l 4.3425,0 z m -1.00125,-0.8325 c 0,0 0,0.045 -0.0112,0.0675 l -3.3075,0 c 0.0788,-1.04625 0.7425,-1.755 1.6875,-1.755 0.9225,0 1.63125,0.765 1.63125,1.6875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4389" />
+      <path
+         d="m 255.29201,982.56706 0,-0.95625 c -0.1575,-0.0225 -0.23625,-0.0338 -0.36,-0.0338 -0.6075,0 -1.06875,0.36 -1.60875,1.2375 l 0,-1.06875 -0.855,0 0,5.895 0.93375,0 0,-3.06 c 0,-1.3275 0.43875,-1.99125 1.89,-2.01375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4391" />
+      <path
+         d="m 260.66775,985.98706 c 0,-0.8775 -0.495,-1.31625 -1.665,-1.5975 l -0.9,-0.21375 c -0.765,-0.18 -1.09125,-0.4275 -1.09125,-0.84375 0,-0.54 0.48375,-0.88875 1.24875,-0.88875 0.75375,0 1.15875,0.32625 1.18125,0.945 l 0.99,0 c -0.0113,-1.15875 -0.77625,-1.81125 -2.1375,-1.81125 -1.3725,0 -2.26125,0.70875 -2.26125,1.8 0,0.9225 0.4725,1.36125 1.8675,1.69875 l 0.8775,0.21375 c 0.6525,0.1575 0.91125,0.34875 0.91125,0.77625 0,0.55125 -0.55125,0.8775 -1.3725,0.8775 -0.84375,0 -1.31625,-0.2025 -1.44,-1.1025 l -0.99,0 c 0.045,1.36125 0.81,1.96875 2.35125,1.96875 1.485,0 2.43,-0.68625 2.43,-1.8225 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4393" />
+      <path
+         d="m 267.01275,984.74956 c 0,-1.98 -0.9675,-3.1725 -2.53125,-3.1725 -0.79875,0 -1.44,0.36 -1.87875,1.0575 l 0,-0.88875 -0.855,0 0,8.3475 0.93375,0 0,-3.16125 c 0.495,0.6075 1.04625,0.8775 1.81125,0.8775 1.51875,0 2.52,-1.18125 2.52,-3.06 z m -0.97875,-0.0225 c 0,1.33875 -0.68625,2.205 -1.71,2.205 -0.99,0 -1.6425,-0.81 -1.6425,-2.19375 0,-1.38375 0.6525,-2.28375 1.6425,-2.28375 1.035,0 1.71,0.86625 1.71,2.2725 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4395" />
+      <path
+         d="m 273.40995,987.61831 0,-0.70875 c -0.10125,0.0225 -0.14625,0.0225 -0.2025,0.0225 -0.32625,0 -0.50625,-0.16875 -0.50625,-0.46125 l 0,-3.285 c 0,-1.04625 -0.765,-1.60875 -2.21625,-1.60875 -1.42875,0 -2.30625,0.55125 -2.3625,1.9125 l 0.945,0 c 0.0788,-0.72 0.50625,-1.04625 1.38375,-1.04625 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.39375 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.16875 -1.53,0.21375 -1.89,0.36 -0.68625,0.28125 -1.035,0.81 -1.035,1.53 0,1.06875 0.7425,1.69875 1.935,1.69875 0.75375,0 1.485,-0.315 2.0025,-0.86625 0.10125,0.45 0.50625,0.77625 0.9675,0.77625 0.19125,0 0.3375,-0.0225 0.64125,-0.10125 z m -1.6425,-2.01375 c 0,0.84375 -0.855,1.38375 -1.76625,1.38375 -0.73125,0 -1.15875,-0.25875 -1.15875,-0.9 0,-0.61875 0.41625,-0.88875 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.32625 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4397" />
+      <path
+         d="m 279.01966,985.61581 -0.945,0 c -0.1575,0.945 -0.64125,1.3275 -1.44,1.3275 -1.035,0 -1.65375,-0.79875 -1.65375,-2.19375 0,-1.47375 0.6075,-2.30625 1.63125,-2.30625 0.7875,0 1.2825,0.46125 1.395,1.2825 l 0.945,0 c -0.1125,-1.44 -1.0125,-2.14875 -2.32875,-2.14875 -1.58625,0 -2.62125,1.215 -2.62125,3.1725 0,1.90125 1.0125,3.06 2.61,3.06 1.40625,0 2.295,-0.84375 2.4075,-2.19375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4399" />
+      <path
+         d="m 285.04966,984.96331 c 0,-0.855 -0.0675,-1.395 -0.23625,-1.83375 -0.3825,-0.9675 -1.2825,-1.5525 -2.385,-1.5525 -1.6425,0 -2.7,1.215 -2.7,3.15 0,1.935 1.02375,3.0825 2.6775,3.0825 1.35,0 2.28375,-0.765 2.52,-1.9575 l -0.945,0 c -0.25875,0.77625 -0.7875,1.09125 -1.54125,1.09125 -0.97875,0 -1.71,-0.63 -1.7325,-1.98 l 4.3425,0 z m -1.00125,-0.8325 c 0,0 0,0.045 -0.0113,0.0675 l -3.3075,0 c 0.0787,-1.04625 0.7425,-1.755 1.6875,-1.755 0.9225,0 1.63125,0.765 1.63125,1.6875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4401" />
+      <path
+         d="m 241.65296,1001.5233 -1.08,0 c -0.2475,1.5525 -0.9,2.2725 -2.28375,2.2725 -1.63125,0 -2.66625,-1.2487 -2.66625,-3.2962 0,-2.10379 0.99,-3.46504 2.57625,-3.46504 1.2825,0 1.9575,0.57375 2.21625,1.8225 l 1.06875,0 c -0.32625,-1.8 -1.36125,-2.745 -3.16125,-2.745 -2.48625,0 -3.74625,2.0025 -3.74625,4.39874 0,2.3963 1.29375,4.2075 3.70125,4.2075 2.0025,0 3.1275,-1.0575 3.375,-3.195 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4403" />
+      <path
+         d="m 247.6341,1004.5158 0,-4.455 c 0,-0.98999 -0.70875,-1.60874 -1.85625,-1.60874 -0.8325,0 -1.33875,0.25875 -1.89,0.97875 l 0,-3.11625 -0.93375,0 0,8.20124 0.93375,0 0,-3.2512 c 0,-1.2038 0.63,-1.99129 1.5975,-1.99129 0.66375,0 1.215,0.3825 1.215,1.15879 l 0,4.0837 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4405" />
+      <path
+         d="m 254.44755,1004.4933 0,-0.7087 c -0.10125,0.023 -0.14625,0.023 -0.2025,0.023 -0.32625,0 -0.50625,-0.1688 -0.50625,-0.4613 l 0,-3.285 c 0,-1.04624 -0.765,-1.60874 -2.21625,-1.60874 -1.42875,0 -2.30625,0.55125 -2.3625,1.91254 l 0.945,0 c 0.0787,-0.72004 0.50625,-1.04629 1.38375,-1.04629 0.84375,0 1.31625,0.315 1.31625,0.87749 l 0,0.2475 c 0,0.3938 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.1688 -1.53,0.2138 -1.89,0.36 -0.68625,0.2813 -1.035,0.81 -1.035,1.53 0,1.0688 0.7425,1.6988 1.935,1.6988 0.75375,0 1.485,-0.315 2.0025,-0.8663 0.10125,0.45 0.50625,0.7763 0.9675,0.7763 0.19125,0 0.3375,-0.023 0.64125,-0.1013 z m -1.6425,-2.0137 c 0,0.8437 -0.855,1.3837 -1.76625,1.3837 -0.73125,0 -1.15875,-0.2587 -1.15875,-0.9 0,-0.6187 0.41625,-0.8887 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.3262 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4407" />
+      <path
+         d="m 260.42851,1001.6133 c 0,-2.03624 -0.97875,-3.16124 -2.6775,-3.16124 -1.65375,0 -2.655,1.13625 -2.655,3.11624 0,1.98 0.99,3.1163 2.66625,3.1163 1.65375,0 2.66625,-1.1363 2.66625,-3.0713 z m -0.97875,-0.011 c 0,1.3837 -0.6525,2.2162 -1.6875,2.2162 -1.04625,0 -1.6875,-0.8212 -1.6875,-2.25 0,-1.4175 0.64125,-2.24999 1.6875,-2.24999 1.0575,0 1.6875,0.82129 1.6875,2.28379 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4409" />
+      <path
+         d="m 266.11697,1002.8621 c 0,-0.8775 -0.495,-1.3163 -1.665,-1.5975 l -0.9,-0.2138 c -0.765,-0.18 -1.09125,-0.4275 -1.09125,-0.8437 0,-0.54004 0.48375,-0.88879 1.24875,-0.88879 0.75375,0 1.15875,0.32625 1.18125,0.94499 l 0.99,0 c -0.0113,-1.15874 -0.77625,-1.81124 -2.1375,-1.81124 -1.3725,0 -2.26125,0.70875 -2.26125,1.80004 0,0.9225 0.4725,1.3612 1.8675,1.6987 l 0.8775,0.2138 c 0.6525,0.1575 0.91125,0.3487 0.91125,0.7762 0,0.5513 -0.55125,0.8775 -1.3725,0.8775 -0.84375,0 -1.31625,-0.2025 -1.44,-1.1025 l -0.99,0 c 0.045,1.3613 0.81,1.9688 2.35125,1.9688 1.485,0 2.43,-0.6863 2.43,-1.8225 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4411" />
+      <path
+         d="m 269.3698,1004.5158 0,-0.7875 c -0.12375,0.034 -0.27,0.045 -0.45,0.045 -0.405,0 -0.5175,-0.1125 -0.5175,-0.5287 l 0,-3.85879 0.9675,0 0,-0.765 -0.9675,0 0,-1.62 -0.93375,0 0,1.62 -0.79875,0 0,0.765 0.79875,0 0,4.27499 c 0,0.5963 0.405,0.9338 1.13625,0.9338 0.225,0 0.45,-0.023 0.765,-0.079 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4413" />
+      <path
+         d="m 273.24367,999.44206 0,-0.95625 c -0.1575,-0.0225 -0.23625,-0.0338 -0.36,-0.0338 -0.6075,0 -1.06875,0.36 -1.60875,1.2375 l 0,-1.06875 -0.855,0 0,5.89499 0.93375,0 0,-3.06 c 0,-1.3275 0.43875,-1.99124 1.89,-2.01374 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4415" />
+      <path
+         d="m 279.05113,1001.8383 c 0,-0.855 -0.0675,-1.395 -0.23625,-1.8337 -0.3825,-0.96754 -1.2825,-1.55254 -2.385,-1.55254 -1.6425,0 -2.7,1.215 -2.7,3.15004 0,1.935 1.02375,3.0825 2.6775,3.0825 1.35,0 2.28375,-0.765 2.52,-1.9575 l -0.945,0 c -0.25875,0.7762 -0.7875,1.0912 -1.54125,1.0912 -0.97875,0 -1.71,-0.63 -1.7325,-1.98 l 4.3425,0 z m -1.00125,-0.8325 c 0,0 0,0.045 -0.0112,0.067 l -3.3075,0 c 0.0788,-1.0462 0.7425,-1.75499 1.6875,-1.75499 0.9225,0 1.63125,0.76499 1.63125,1.68749 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4417" />
+      <path
+         d="m 285.34708,999.38581 0,-0.765 -0.97875,0 0,-0.9225 c 0,-0.39375 0.225,-0.59625 0.6525,-0.59625 0.0788,0 0.1125,0 0.32625,0.0112 l 0,-0.77625 c -0.21375,-0.045 -0.3375,-0.0562 -0.52875,-0.0562 -0.86625,0 -1.38375,0.495 -1.38375,1.33875 l 0,1.00125 -1.96875,0 0,-0.9225 c 0,-0.39375 0.225,-0.59625 0.6525,-0.59625 0.0788,0 0.1125,0 0.32625,0.0112 l 0,-0.77625 c -0.21375,-0.045 -0.3375,-0.0562 -0.52875,-0.0562 -0.86625,0 -1.38375,0.495 -1.38375,1.33875 l 0,1.00125 -0.7875,0 0,0.765 0.7875,0 0,5.12999 0.93375,0 0,-5.12999 1.96875,0 0,5.12999 0.93375,0 0,-5.12999 0.97875,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4419" />
+      <path
+         d="m 231.92523,1017.4196 c 0,-2.6438 -1.56375,-4.4325 -3.97125,-4.4325 -2.35125,0 -3.94875,1.8 -3.94875,4.365 0,2.565 1.5975,4.2412 3.96,4.2412 2.4075,0 3.96,-1.7662 3.96,-4.1737 z m -1.04625,-0.022 c 0,1.98 -1.18125,3.2737 -2.91375,3.2737 -1.74375,0 -2.91375,-1.2937 -2.91375,-3.3187 0,-2.025 1.17,-3.4425 2.9025,-3.4425 1.7775,0 2.925,1.4175 2.925,3.4875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4421" />
+      <path
+         d="m 238.2066,1018.4996 c 0,-1.98 -0.9675,-3.1725 -2.53125,-3.1725 -0.79875,0 -1.44,0.36 -1.87875,1.0575 l 0,-0.8888 -0.855,0 0,8.3475 0.93375,0 0,-3.1612 c 0.495,0.6075 1.04625,0.8775 1.81125,0.8775 1.51875,0 2.52,-1.1813 2.52,-3.06 z m -0.97875,-0.023 c 0,1.3387 -0.68625,2.205 -1.71,2.205 -0.99,0 -1.6425,-0.81 -1.6425,-2.1938 0,-1.3837 0.6525,-2.2837 1.6425,-2.2837 1.035,0 1.71,0.8662 1.71,2.2725 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4423" />
+      <path
+         d="m 244.3563,1018.7133 c 0,-0.855 -0.0675,-1.395 -0.23625,-1.8337 -0.3825,-0.9675 -1.2825,-1.5525 -2.385,-1.5525 -1.6425,0 -2.7,1.215 -2.7,3.15 0,1.935 1.02375,3.0825 2.6775,3.0825 1.35,0 2.28375,-0.765 2.52,-1.9575 l -0.945,0 c -0.25875,0.7762 -0.7875,1.0912 -1.54125,1.0912 -0.97875,0 -1.71,-0.63 -1.7325,-1.98 l 4.3425,0 z m -1.00125,-0.8325 c 0,0 0,0.045 -0.0113,0.067 l -3.3075,0 c 0.0787,-1.0462 0.7425,-1.755 1.6875,-1.755 0.9225,0 1.63125,0.765 1.63125,1.6875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4425" />
+      <path
+         d="m 250.32601,1021.3908 0,-4.455 c 0,-0.9787 -0.73125,-1.6087 -1.8675,-1.6087 -0.8775,0 -1.44,0.3375 -1.9575,1.1587 l 0,-0.99 -0.86625,0 0,5.895 0.93375,0 0,-3.2512 c 0,-1.2038 0.6525,-1.9913 1.60875,-1.9913 0.7425,0 1.215,0.45 1.215,1.1588 l 0,4.0837 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4427" />
+      <path
+         d="m 261.23833,1019.0508 c 0,-0.99 -0.45,-1.5862 -1.49625,-1.9912 0.7425,-0.3488 1.13625,-0.9563 1.13625,-1.7888 0,-1.1925 -0.8775,-2.0812 -2.43,-2.0812 l -3.33,0 0,8.2012 3.70125,0 c 1.47375,0 2.41875,-0.99 2.41875,-2.34 z m -1.40625,-3.6337 c 0,0.8325 -0.48375,1.305 -1.6425,1.305 l -2.025,0 0,-2.61 2.025,0 c 1.15875,0 1.6425,0.4725 1.6425,1.305 z m 0.36,3.645 c 0,0.7875 -0.48375,1.4062 -1.47375,1.4062 l -2.55375,0 0,-2.8237 2.55375,0 c 0.99,0 1.47375,0.6187 1.47375,1.4175 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4429" />
+      <path
+         d="m 263.46548,1021.3908 0,-5.895 -0.93375,0 0,5.895 0.93375,0 z m 0.12375,-6.7837 0,-1.17 -1.17,0 0,1.17 1.17,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4431" />
+      <path
+         d="m 269.98661,1018.4883 c 0,-2.0362 -0.97875,-3.1612 -2.6775,-3.1612 -1.65375,0 -2.655,1.1362 -2.655,3.1162 0,1.98 0.99,3.1163 2.66625,3.1163 1.65375,0 2.66625,-1.1363 2.66625,-3.0713 z m -0.97875,-0.011 c 0,1.3837 -0.6525,2.2162 -1.6875,2.2162 -1.04625,0 -1.6875,-0.8212 -1.6875,-2.25 0,-1.4175 0.64125,-2.25 1.6875,-2.25 1.0575,0 1.6875,0.8213 1.6875,2.2838 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4433" />
+      <path
+         d="m 272.21007,1021.3908 0,-8.2012 -0.93375,0 0,8.2012 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4435" />
+      <path
+         d="m 279.03495,1021.3683 0,-0.7087 c -0.10125,0.023 -0.14625,0.023 -0.2025,0.023 -0.32625,0 -0.50625,-0.1688 -0.50625,-0.4613 l 0,-3.285 c 0,-1.0462 -0.765,-1.6087 -2.21625,-1.6087 -1.42875,0 -2.30625,0.5512 -2.3625,1.9125 l 0.945,0 c 0.0788,-0.72 0.50625,-1.0463 1.38375,-1.0463 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.3938 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.1688 -1.53,0.2138 -1.89,0.36 -0.68625,0.2813 -1.035,0.81 -1.035,1.53 0,1.0688 0.7425,1.6988 1.935,1.6988 0.75375,0 1.485,-0.315 2.0025,-0.8663 0.10125,0.45 0.50625,0.7763 0.9675,0.7763 0.19125,0 0.3375,-0.023 0.64125,-0.1013 z m -1.6425,-2.0137 c 0,0.8437 -0.855,1.3837 -1.76625,1.3837 -0.73125,0 -1.15875,-0.2587 -1.15875,-0.9 0,-0.6187 0.41625,-0.8887 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.3262 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4437" />
+      <path
+         d="m 285.16216,1018.3758 c 0,-1.9125 -0.9675,-3.0487 -2.52,-3.0487 -0.81,0 -1.38375,0.3037 -1.8225,0.9675 l 0,-3.105 -0.93375,0 0,8.2012 0.84375,0 0,-0.8437 c 0.45,0.6862 1.04625,1.0125 1.8675,1.0125 1.5525,0 2.565,-1.2713 2.565,-3.1838 z m -0.97875,0.056 c 0,1.3387 -0.6975,2.25 -1.72125,2.25 -0.99,0 -1.6425,-0.9 -1.6425,-2.2388 0,-1.3837 0.6525,-2.2837 1.6425,-2.2387 1.04625,0 1.72125,0.9112 1.72125,2.2275 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4439" />
+      <path
+         d="m 242.37419,1030.9871 0,-0.9225 -5.50125,0 0,8.2012 1.04625,0 0,-3.735 3.915,0 0,-0.9225 -3.915,0 0,-2.6212 4.455,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4441" />
+      <path
+         d="m 247.76488,1038.2658 0,-5.895 -0.93375,0 0,3.2513 c 0,1.2037 -0.63,1.9912 -1.60875,1.9912 -0.7425,0 -1.215,-0.45 -1.215,-1.1587 l 0,-4.0838 -0.93375,0 0,4.455 c 0,0.9788 0.73125,1.6088 1.87875,1.6088 0.86625,0 1.4175,-0.3038 1.96875,-1.08 l 0,0.9112 0.84375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4443" />
+      <path
+         d="m 254.08333,1038.2658 0,-4.455 c 0,-0.9787 -0.73125,-1.6087 -1.8675,-1.6087 -0.8775,0 -1.44,0.3375 -1.9575,1.1587 l 0,-0.99 -0.86625,0 0,5.895 0.93375,0 0,-3.2512 c 0,-1.2038 0.6525,-1.9913 1.60875,-1.9913 0.7425,0 1.215,0.45 1.215,1.1588 l 0,4.0837 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4445" />
+      <path
+         d="m 260.51429,1038.2658 -2.4075,-3.8587 2.0475,-2.0363 -1.20375,0 -2.4975,2.4975 0,-4.8037 -0.93375,0 0,8.2012 0.93375,0 0,-2.295 0.91125,-0.9 1.99125,3.195 1.15875,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4447" />
+      <path
+         d="m 266.37554,1035.2508 c 0,-1.9125 -0.9675,-3.0487 -2.52,-3.0487 -0.81,0 -1.38375,0.3037 -1.8225,0.9675 l 0,-3.105 -0.93375,0 0,8.2012 0.84375,0 0,-0.8437 c 0.45,0.6862 1.04625,1.0125 1.8675,1.0125 1.5525,0 2.565,-1.2713 2.565,-3.1838 z m -0.97875,0.056 c 0,1.3387 -0.6975,2.25 -1.72125,2.25 -0.99,0 -1.6425,-0.9 -1.6425,-2.2388 0,-1.3837 0.6525,-2.2837 1.6425,-2.2387 1.04625,0 1.72125,0.9112 1.72125,2.2275 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4449" />
+      <path
+         d="m 272.1765,1038.2658 0,-5.895 -0.93375,0 0,3.2513 c 0,1.2037 -0.63,1.9912 -1.60875,1.9912 -0.7425,0 -1.215,-0.45 -1.215,-1.1587 l 0,-4.0838 -0.93375,0 0,4.455 c 0,0.9788 0.73125,1.6088 1.87875,1.6088 0.86625,0 1.4175,-0.3038 1.96875,-1.08 l 0,0.9112 0.84375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4451" />
+      <path
+         d="m 278.58495,1038.2658 0,-8.2012 -0.93375,0 0,3.0487 c -0.39375,-0.5962 -1.02375,-0.9112 -1.81125,-0.9112 -1.53,0 -2.53125,1.1812 -2.53125,3.06 0,1.9912 0.97875,3.1725 2.565,3.1725 0.81,0 1.3725,-0.3038 1.87875,-1.035 l 0,0.8662 0.8325,0 z m -0.93375,-2.925 c 0,1.3613 -0.6525,2.2163 -1.6425,2.2163 -1.035,0 -1.72125,-0.8663 -1.72125,-2.2388 0,-1.3725 0.68625,-2.2387 1.71,-2.2387 1.0125,0 1.65375,0.9 1.65375,2.2612 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4453" />
+      <path
+         d="m 285.04966,1035.5883 c 0,-0.855 -0.0675,-1.395 -0.23625,-1.8337 -0.3825,-0.9675 -1.2825,-1.5525 -2.385,-1.5525 -1.6425,0 -2.7,1.215 -2.7,3.15 0,1.935 1.02375,3.0825 2.6775,3.0825 1.35,0 2.28375,-0.765 2.52,-1.9575 l -0.945,0 c -0.25875,0.7762 -0.7875,1.0912 -1.54125,1.0912 -0.97875,0 -1.71,-0.63 -1.7325,-1.98 l 4.3425,0 z m -1.00125,-0.8325 c 0,0 0,0.045 -0.0113,0.068 l -3.3075,0 c 0.0787,-1.0462 0.7425,-1.755 1.6875,-1.755 0.9225,0 1.63125,0.765 1.63125,1.6875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#761407;fill-opacity:1"
+         id="path4455" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.76538277px;line-height:125%;font-family:Cagliostro;-inkscape-font-specification:Cagliostro;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3373-4">
+      <path
+         d="m 42.780854,1035.982 0,-4.455 c 0,-0.99 -0.70875,-1.6087 -1.85625,-1.6087 -0.8325,0 -1.33875,0.2587 -1.89,0.9787 l 0,-3.1162 -0.93375,0 0,8.2012 0.93375,0 0,-3.2512 c 0,-1.2038 0.63,-1.9913 1.5975,-1.9913 0.66375,0 1.215,0.3825 1.215,1.1588 l 0,4.0837 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.21718693px;font-family:Cagliostro;-inkscape-font-specification:Cagliostro"
+         id="path4322" />
+      <path
+         d="m 46.433062,1035.982 0,-0.7875 c -0.12375,0.034 -0.27,0.045 -0.45,0.045 -0.405,0 -0.5175,-0.1125 -0.5175,-0.5287 l 0,-3.8588 0.9675,0 0,-0.765 -0.9675,0 0,-1.62 -0.93375,0 0,1.62 -0.79875,0 0,0.765 0.79875,0 0,4.275 c 0,0.5963 0.405,0.9338 1.13625,0.9338 0.225,0 0.45,-0.023 0.765,-0.079 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4324" />
+      <path
+         d="m 49.553179,1035.982 0,-0.7875 c -0.12375,0.034 -0.27,0.045 -0.45,0.045 -0.405,0 -0.5175,-0.1125 -0.5175,-0.5287 l 0,-3.8588 0.9675,0 0,-0.765 -0.9675,0 0,-1.62 -0.93375,0 0,1.62 -0.79875,0 0,0.765 0.79875,0 0,4.275 c 0,0.5963 0.405,0.9338 1.13625,0.9338 0.225,0 0.45,-0.023 0.765,-0.079 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4326" />
+      <path
+         d="m 55.699546,1033.0908 c 0,-1.98 -0.9675,-3.1725 -2.53125,-3.1725 -0.79875,0 -1.44,0.36 -1.87875,1.0575 l 0,-0.8888 -0.855,0 0,8.3475 0.93375,0 0,-3.1612 c 0.495,0.6075 1.04625,0.8775 1.81125,0.8775 1.51875,0 2.52,-1.1813 2.52,-3.06 z m -0.97875,-0.023 c 0,1.3387 -0.68625,2.205 -1.71,2.205 -0.99,0 -1.6425,-0.81 -1.6425,-2.1938 0,-1.3837 0.6525,-2.2837 1.6425,-2.2837 1.035,0 1.71,0.8662 1.71,2.2725 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4328" />
+      <path
+         d="m 61.241753,1034.3283 c 0,-0.8775 -0.495,-1.3163 -1.665,-1.5975 l -0.9,-0.2138 c -0.765,-0.18 -1.09125,-0.4275 -1.09125,-0.8437 0,-0.54 0.48375,-0.8888 1.24875,-0.8888 0.75375,0 1.15875,0.3263 1.18125,0.945 l 0.99,0 c -0.01125,-1.1587 -0.77625,-1.8112 -2.1375,-1.8112 -1.3725,0 -2.26125,0.7087 -2.26125,1.8 0,0.9225 0.4725,1.3612 1.8675,1.6987 l 0.8775,0.2138 c 0.6525,0.1575 0.91125,0.3487 0.91125,0.7762 0,0.5513 -0.55125,0.8775 -1.3725,0.8775 -0.84375,0 -1.31625,-0.2025 -1.44,-1.1025 l -0.99,0 c 0.045,1.3613 0.81,1.9688 2.35125,1.9688 1.485,0 2.43,-0.6863 2.43,-1.8225 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4330" />
+      <path
+         d="m 63.851753,1035.982 0,-1.17 -1.17,0 0,1.17 1.17,0 z m 0,-4.725 0,-1.17 -1.17,0 0,1.17 1.17,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4332" />
+      <path
+         d="m 68.01812,1027.7808 -0.61875,0 -2.66625,8.4262 0.61875,0 2.66625,-8.4262 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4334" />
+      <path
+         d="m 71.138237,1027.7808 -0.61875,0 -2.66625,8.4262 0.61875,0 2.66625,-8.4262 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4336" />
+      <path
+         d="m 74.674604,1030.9083 0,-0.9563 c -0.1575,-0.023 -0.23625,-0.034 -0.36,-0.034 -0.6075,0 -1.06875,0.36 -1.60875,1.2375 l 0,-1.0688 -0.855,0 0,5.895 0.93375,0 0,-3.06 c 0,-1.3275 0.43875,-1.9912 1.89,-2.0137 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4338" />
+      <path
+         d="m 80.482065,1033.3045 c 0,-0.855 -0.0675,-1.395 -0.23625,-1.8337 -0.3825,-0.9675 -1.2825,-1.5525 -2.385,-1.5525 -1.6425,0 -2.7,1.215 -2.7,3.15 0,1.935 1.02375,3.0825 2.6775,3.0825 1.35,0 2.28375,-0.765 2.52,-1.9575 l -0.945,0 c -0.25875,0.7762 -0.7875,1.0912 -1.54125,1.0912 -0.97875,0 -1.71,-0.63 -1.7325,-1.98 l 4.3425,0 z m -1.00125,-0.8325 c 0,0 0,0.045 -0.01125,0.068 l -3.3075,0 c 0.07875,-1.0462 0.7425,-1.755 1.6875,-1.755 0.9225,0 1.63125,0.765 1.63125,1.6875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4340" />
+      <path
+         d="m 86.991772,1035.9595 0,-0.7087 c -0.10125,0.023 -0.14625,0.023 -0.2025,0.023 -0.32625,0 -0.50625,-0.1688 -0.50625,-0.4613 l 0,-3.285 c 0,-1.0462 -0.765,-1.6087 -2.21625,-1.6087 -1.42875,0 -2.30625,0.5512 -2.3625,1.9125 l 0.945,0 c 0.07875,-0.72 0.50625,-1.0463 1.38375,-1.0463 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.3938 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.1688 -1.53,0.2138 -1.89,0.36 -0.68625,0.2813 -1.035,0.81 -1.035,1.53 0,1.0688 0.7425,1.6988 1.935,1.6988 0.75375,0 1.485,-0.315 2.0025,-0.8663 0.10125,0.45 0.50625,0.7763 0.9675,0.7763 0.19125,0 0.3375,-0.023 0.64125,-0.1013 z m -1.6425,-2.0137 c 0,0.8437 -0.855,1.3837 -1.76625,1.3837 -0.73125,0 -1.15875,-0.2587 -1.15875,-0.9 0,-0.6187 0.41625,-0.8887 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.3262 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4342" />
+      <path
+         d="m 88.933979,1035.982 0,-8.2012 -0.93375,0 0,8.2012 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4344" />
+      <path
+         d="m 93.351362,1030.9083 0,-0.9563 c -0.1575,-0.023 -0.23625,-0.034 -0.36,-0.034 -0.6075,0 -1.06875,0.36 -1.60875,1.2375 l 0,-1.0688 -0.855,0 0,5.895 0.93375,0 0,-3.06 c 0,-1.3275 0.43875,-1.9912 1.89,-2.0137 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4346" />
+      <path
+         d="m 99.450269,1035.9595 0,-0.7087 c -0.10125,0.023 -0.14625,0.023 -0.2025,0.023 -0.32625,0 -0.50625,-0.1688 -0.50625,-0.4613 l 0,-3.285 c 0,-1.0462 -0.765,-1.6087 -2.21625,-1.6087 -1.42875,0 -2.30625,0.5512 -2.3625,1.9125 l 0.945,0 c 0.07875,-0.72 0.50625,-1.0463 1.38375,-1.0463 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.3938 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.1688 -1.53,0.2138 -1.89,0.36 -0.68625,0.2813 -1.035,0.81 -1.035,1.53 0,1.0688 0.7425,1.6988 1.935,1.6988 0.75375,0 1.485,-0.315 2.0025,-0.8663 0.10125,0.45 0.50625,0.7763 0.9675,0.7763 0.19125,0 0.3375,-0.023 0.64125,-0.1013 z m -1.6425,-2.0137 c 0,0.8437 -0.855,1.3837 -1.76625,1.3837 -0.73125,0 -1.15875,-0.2587 -1.15875,-0.9 0,-0.6187 0.41625,-0.8887 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.3262 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4348" />
+      <path
+         d="m 105.11623,1035.982 0,-5.895 -0.93375,0 0,3.2513 c 0,1.2037 -0.63,1.9912 -1.60875,1.9912 -0.7425,0 -1.215,-0.45 -1.215,-1.1587 l 0,-4.0838 -0.93375,0 0,4.455 c 0,0.9788 0.73125,1.6088 1.87875,1.6088 0.86625,0 1.4175,-0.3038 1.96875,-1.08 l 0,0.9112 0.84375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4350" />
+      <path
+         d="m 114.50593,1035.982 0,-4.4212 c 0,-1.0575 -0.585,-1.6425 -1.6875,-1.6425 -0.7875,0 -1.26,0.2362 -1.81125,0.9 -0.34875,-0.63 -0.82125,-0.9 -1.58625,-0.9 -0.7875,0 -1.305,0.2925 -1.81125,1.0012 l 0,-0.8325 -0.855,0 0,5.895 0.93375,0 0,-3.7012 c 0,-0.855 0.61875,-1.5413 1.38375,-1.5413 0.6975,0 1.09125,0.4275 1.09125,1.1813 l 0,4.0612 0.93375,0 0,-3.7012 c 0,-0.855 0.63,-1.5413 1.395,-1.5413 0.68625,0 1.08,0.4388 1.08,1.1813 l 0,4.0612 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4352" />
+      <path
+         d="m 117.48701,1035.982 0,-1.17 -1.17,0 0,1.17 1.17,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4354" />
+      <path
+         d="m 124.47712,1035.9595 0,-0.7087 c -0.10125,0.023 -0.14625,0.023 -0.2025,0.023 -0.32625,0 -0.50625,-0.1688 -0.50625,-0.4613 l 0,-3.285 c 0,-1.0462 -0.765,-1.6087 -2.21625,-1.6087 -1.42875,0 -2.30625,0.5512 -2.3625,1.9125 l 0.945,0 c 0.0787,-0.72 0.50625,-1.0463 1.38375,-1.0463 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.3938 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.1688 -1.53,0.2138 -1.89,0.36 -0.68625,0.2813 -1.035,0.81 -1.035,1.53 0,1.0688 0.7425,1.6988 1.935,1.6988 0.75375,0 1.485,-0.315 2.0025,-0.8663 0.10125,0.45 0.50625,0.7763 0.9675,0.7763 0.19125,0 0.3375,-0.023 0.64125,-0.1013 z m -1.6425,-2.0137 c 0,0.8437 -0.855,1.3837 -1.76625,1.3837 -0.73125,0 -1.15875,-0.2587 -1.15875,-0.9 0,-0.6187 0.41625,-0.8887 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.3262 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4356" />
+      <path
+         d="m 127.57808,1035.982 0,-0.7875 c -0.12375,0.034 -0.27,0.045 -0.45,0.045 -0.405,0 -0.5175,-0.1125 -0.5175,-0.5287 l 0,-3.8588 0.9675,0 0,-0.765 -0.9675,0 0,-1.62 -0.93375,0 0,1.62 -0.79875,0 0,0.765 0.79875,0 0,4.275 c 0,0.5963 0.405,0.9338 1.13625,0.9338 0.225,0 0.45,-0.023 0.765,-0.079 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4358" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.76538277px;line-height:125%;font-family:Cagliostro;-inkscape-font-specification:Cagliostro;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3373-1">
+      <path
+         d="m 40.924604,1003.0397 0,-0.9562 c -0.1575,-0.022 -0.23625,-0.034 -0.36,-0.034 -0.6075,0 -1.06875,0.36 -1.60875,1.2375 l 0,-1.0687 -0.855,0 0,5.895 0.93375,0 0,-3.06 c 0,-1.3275 0.43875,-1.9913 1.89,-2.0138 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.21718693px;font-family:Cagliostro;-inkscape-font-specification:Cagliostro"
+         id="path4281" />
+      <path
+         d="m 46.732065,1005.436 c 0,-0.855 -0.0675,-1.395 -0.23625,-1.8338 -0.3825,-0.9675 -1.2825,-1.5525 -2.385,-1.5525 -1.6425,0 -2.7,1.215 -2.7,3.15 0,1.935 1.02375,3.0825 2.6775,3.0825 1.35,0 2.28375,-0.765 2.52,-1.9575 l -0.945,0 c -0.25875,0.7763 -0.7875,1.0913 -1.54125,1.0913 -0.97875,0 -1.71,-0.63 -1.7325,-1.98 l 4.3425,0 z m -1.00125,-0.8325 c 0,0 0,0.045 -0.01125,0.067 l -3.3075,0 c 0.07875,-1.0463 0.7425,-1.755 1.6875,-1.755 0.9225,0 1.63125,0.765 1.63125,1.6875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4283" />
+      <path
+         d="m 53.241772,1008.091 0,-0.7088 c -0.10125,0.023 -0.14625,0.023 -0.2025,0.023 -0.32625,0 -0.50625,-0.1687 -0.50625,-0.4612 l 0,-3.285 c 0,-1.0463 -0.765,-1.6088 -2.21625,-1.6088 -1.42875,0 -2.30625,0.5513 -2.3625,1.9125 l 0.945,0 c 0.07875,-0.72 0.50625,-1.0462 1.38375,-1.0462 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.3937 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.1687 -1.53,0.2137 -1.89,0.36 -0.68625,0.2812 -1.035,0.81 -1.035,1.53 0,1.0687 0.7425,1.6987 1.935,1.6987 0.75375,0 1.485,-0.315 2.0025,-0.8662 0.10125,0.45 0.50625,0.7762 0.9675,0.7762 0.19125,0 0.3375,-0.022 0.64125,-0.1012 z m -1.6425,-2.0138 c 0,0.8438 -0.855,1.3838 -1.76625,1.3838 -0.73125,0 -1.15875,-0.2588 -1.15875,-0.9 0,-0.6188 0.41625,-0.8888 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.3263 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4285" />
+      <path
+         d="m 55.183979,1008.1135 0,-8.20128 -0.93375,0 0,8.20128 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4287" />
+      <path
+         d="m 59.601362,1003.0397 0,-0.9562 c -0.1575,-0.022 -0.23625,-0.034 -0.36,-0.034 -0.6075,0 -1.06875,0.36 -1.60875,1.2375 l 0,-1.0687 -0.855,0 0,5.895 0.93375,0 0,-3.06 c 0,-1.3275 0.43875,-1.9913 1.89,-2.0138 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4289" />
+      <path
+         d="m 65.700269,1008.091 0,-0.7088 c -0.10125,0.023 -0.14625,0.023 -0.2025,0.023 -0.32625,0 -0.50625,-0.1687 -0.50625,-0.4612 l 0,-3.285 c 0,-1.0463 -0.765,-1.6088 -2.21625,-1.6088 -1.42875,0 -2.30625,0.5513 -2.3625,1.9125 l 0.945,0 c 0.07875,-0.72 0.50625,-1.0462 1.38375,-1.0462 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.3937 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.1687 -1.53,0.2137 -1.89,0.36 -0.68625,0.2812 -1.035,0.81 -1.035,1.53 0,1.0687 0.7425,1.6987 1.935,1.6987 0.75375,0 1.485,-0.315 2.0025,-0.8662 0.10125,0.45 0.50625,0.7762 0.9675,0.7762 0.19125,0 0.3375,-0.022 0.64125,-0.1012 z m -1.6425,-2.0138 c 0,0.8438 -0.855,1.3838 -1.76625,1.3838 -0.73125,0 -1.15875,-0.2588 -1.15875,-0.9 0,-0.6188 0.41625,-0.8888 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.3263 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4291" />
+      <path
+         d="m 71.366226,1008.1135 0,-5.895 -0.93375,0 0,3.2512 c 0,1.2038 -0.63,1.9913 -1.60875,1.9913 -0.7425,0 -1.215,-0.45 -1.215,-1.1588 l 0,-4.0837 -0.93375,0 0,4.455 c 0,0.9787 0.73125,1.6087 1.87875,1.6087 0.86625,0 1.4175,-0.3037 1.96875,-1.08 l 0,0.9113 0.84375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4293" />
+      <path
+         d="m 80.755933,1008.1135 0,-4.4213 c 0,-1.0575 -0.585,-1.6425 -1.6875,-1.6425 -0.7875,0 -1.26,0.2363 -1.81125,0.9 -0.34875,-0.63 -0.82125,-0.9 -1.58625,-0.9 -0.7875,0 -1.305,0.2925 -1.81125,1.0013 l 0,-0.8325 -0.855,0 0,5.895 0.93375,0 0,-3.7013 c 0,-0.855 0.61875,-1.5412 1.38375,-1.5412 0.6975,0 1.09125,0.4275 1.09125,1.1812 l 0,4.0613 0.93375,0 0,-3.7013 c 0,-0.855 0.63,-1.5412 1.395,-1.5412 0.68625,0 1.08,0.4387 1.08,1.1812 l 0,4.0613 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4295" />
+      <path
+         d="m 92.287007,1003.9622 c 0,-2.2837 -2.17125,-4.18498 -4.7925,-4.18498 -3.00375,0 -5.52375,2.49748 -5.52375,5.43378 0,2.4975 2.2725,4.5 5.11875,4.5 0.8325,0 1.7325,-0.1688 2.5425,-0.4725 l -0.315,-0.7538 c -0.9225,0.2588 -1.56375,0.36 -2.17125,0.36 -2.385,0 -4.21875,-1.6537 -4.21875,-3.8025 0,-2.3625 2.0475,-4.3987 4.42125,-4.3987 2.14875,0 3.96,1.575 3.96,3.4537 0,1.3163 -0.93375,2.5875 -1.89,2.5875 -0.30375,0 -0.5625,-0.225 -0.5625,-0.495 -0.01125,-0.1012 0.045,-0.3037 0.135,-0.5625 l 1.0125,-3.15 -0.93375,0 -0.2475,0.7425 c -0.28125,-0.6412 -0.75375,-0.9787 -1.3725,-0.9787 -1.5075,0 -2.89125,1.485 -2.89125,3.1162 0,1.17 0.7875,2.0588 1.83375,2.0588 0.59625,0 1.08,-0.2475 1.5975,-0.81 0.10125,0.5737 0.52875,0.8662 1.2375,0.8662 1.755,0 3.06,-1.8337 3.06,-3.51 z m -3.8475,0.079 c -0.05625,1.3725 -0.8775,2.655 -1.755,2.655 -0.61875,0 -1.11375,-0.585 -1.11375,-1.3275 0,-1.26 0.86625,-2.4075 1.81125,-2.4075 0.6075,0 1.0575,0.4387 1.0575,1.0237 l 0,0.056 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4297" />
+      <path
+         d="m 96.625288,1003.0397 0,-0.9562 c -0.1575,-0.022 -0.23625,-0.034 -0.36,-0.034 -0.6075,0 -1.06875,0.36 -1.60875,1.2375 l 0,-1.0687 -0.855,0 0,5.895 0.93375,0 0,-3.06 c 0,-1.3275 0.43875,-1.9913 1.89,-2.0138 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4299" />
+      <path
+         d="m 102.43275,1005.436 c 0,-0.855 -0.0675,-1.395 -0.23625,-1.8338 -0.3825,-0.9675 -1.2825,-1.5525 -2.385001,-1.5525 -1.6425,0 -2.7,1.215 -2.7,3.15 0,1.935 1.02375,3.0825 2.6775,3.0825 1.350001,0 2.283751,-0.765 2.520001,-1.9575 l -0.945,0 c -0.25875,0.7763 -0.7875,1.0913 -1.541251,1.0913 -0.97875,0 -1.71,-0.63 -1.7325,-1.98 l 4.342501,0 z m -1.00125,-0.8325 c 0,0 0,0.045 -0.0113,0.067 l -3.307501,0 c 0.07875,-1.0463 0.7425,-1.755 1.6875,-1.755 0.922501,0 1.631251,0.765 1.631251,1.6875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4301" />
+      <path
+         d="m 108.94246,1008.091 0,-0.7088 c -0.10125,0.023 -0.14625,0.023 -0.2025,0.023 -0.32625,0 -0.50625,-0.1687 -0.50625,-0.4612 l 0,-3.285 c 0,-1.0463 -0.765,-1.6088 -2.21625,-1.6088 -1.42875,0 -2.30625,0.5513 -2.3625,1.9125 l 0.945,0 c 0.0787,-0.72 0.50625,-1.0462 1.38375,-1.0462 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.3937 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.1687 -1.53,0.2137 -1.89,0.36 -0.68625,0.2812 -1.035,0.81 -1.035,1.53 0,1.0687 0.7425,1.6987 1.935,1.6987 0.75375,0 1.485,-0.315 2.0025,-0.8662 0.10125,0.45 0.50625,0.7762 0.9675,0.7762 0.19125,0 0.3375,-0.022 0.64125,-0.1012 z m -1.6425,-2.0138 c 0,0.8438 -0.855,1.3838 -1.76625,1.3838 -0.73125,0 -1.15875,-0.2588 -1.15875,-0.9 0,-0.6188 0.41625,-0.8888 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.3263 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4303" />
+      <path
+         d="m 110.88466,1008.1135 0,-8.20128 -0.93375,0 0,8.20128 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4305" />
+      <path
+         d="m 115.30205,1003.0397 0,-0.9562 c -0.1575,-0.022 -0.23625,-0.034 -0.36,-0.034 -0.6075,0 -1.06875,0.36 -1.60875,1.2375 l 0,-1.0687 -0.855,0 0,5.895 0.93375,0 0,-3.06 c 0,-1.3275 0.43875,-1.9913 1.89,-2.0138 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4307" />
+      <path
+         d="m 121.40095,1008.091 0,-0.7088 c -0.10125,0.023 -0.14625,0.023 -0.2025,0.023 -0.32625,0 -0.50625,-0.1687 -0.50625,-0.4612 l 0,-3.285 c 0,-1.0463 -0.765,-1.6088 -2.21625,-1.6088 -1.42875,0 -2.30625,0.5513 -2.3625,1.9125 l 0.945,0 c 0.0788,-0.72 0.50625,-1.0462 1.38375,-1.0462 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.3937 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.1687 -1.53,0.2137 -1.89,0.36 -0.68625,0.2812 -1.035,0.81 -1.035,1.53 0,1.0687 0.7425,1.6987 1.935,1.6987 0.75375,0 1.485,-0.315 2.0025,-0.8662 0.10125,0.45 0.50625,0.7762 0.9675,0.7762 0.19125,0 0.3375,-0.022 0.64125,-0.1012 z m -1.6425,-2.0138 c 0,0.8438 -0.855,1.3838 -1.76625,1.3838 -0.73125,0 -1.15875,-0.2588 -1.15875,-0.9 0,-0.6188 0.41625,-0.8888 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.3263 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4309" />
+      <path
+         d="m 127.06691,1008.1135 0,-5.895 -0.93375,0 0,3.2512 c 0,1.2038 -0.63,1.9913 -1.60875,1.9913 -0.7425,0 -1.215,-0.45 -1.215,-1.1588 l 0,-4.0837 -0.93375,0 0,4.455 c 0,0.9787 0.73125,1.6087 1.87875,1.6087 0.86625,0 1.4175,-0.3037 1.96875,-1.08 l 0,0.9113 0.84375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4311" />
+      <path
+         d="m 136.45662,1008.1135 0,-4.4213 c 0,-1.0575 -0.585,-1.6425 -1.6875,-1.6425 -0.7875,0 -1.26,0.2363 -1.81125,0.9 -0.34875,-0.63 -0.82125,-0.9 -1.58625,-0.9 -0.7875,0 -1.305,0.2925 -1.81125,1.0013 l 0,-0.8325 -0.855,0 0,5.895 0.93375,0 0,-3.7013 c 0,-0.855 0.61875,-1.5412 1.38375,-1.5412 0.6975,0 1.09125,0.4275 1.09125,1.1812 l 0,4.0613 0.93375,0 0,-3.7013 c 0,-0.855 0.63,-1.5412 1.395,-1.5412 0.68625,0 1.08,0.4387 1.08,1.1812 l 0,4.0613 0.93375,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4313" />
+      <path
+         d="m 139.43769,1008.1135 0,-1.17 -1.17,0 0,1.17 1.17,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4315" />
+      <path
+         d="m 146.42781,1008.091 0,-0.7088 c -0.10125,0.023 -0.14625,0.023 -0.2025,0.023 -0.32625,0 -0.50625,-0.1687 -0.50625,-0.4612 l 0,-3.285 c 0,-1.0463 -0.765,-1.6088 -2.21625,-1.6088 -1.42875,0 -2.30625,0.5513 -2.3625,1.9125 l 0.945,0 c 0.0788,-0.72 0.50625,-1.0462 1.38375,-1.0462 0.84375,0 1.31625,0.315 1.31625,0.8775 l 0,0.2475 c 0,0.3937 -0.23625,0.5625 -0.97875,0.6525 -1.3275,0.1687 -1.53,0.2137 -1.89,0.36 -0.68625,0.2812 -1.035,0.81 -1.035,1.53 0,1.0687 0.7425,1.6987 1.935,1.6987 0.75375,0 1.485,-0.315 2.0025,-0.8662 0.10125,0.45 0.50625,0.7762 0.9675,0.7762 0.19125,0 0.3375,-0.022 0.64125,-0.1012 z m -1.6425,-2.0138 c 0,0.8438 -0.855,1.3838 -1.76625,1.3838 -0.73125,0 -1.15875,-0.2588 -1.15875,-0.9 0,-0.6188 0.41625,-0.8888 1.4175,-1.035 0.99,-0.135 1.1925,-0.18 1.5075,-0.3263 l 0,0.8775 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4317" />
+      <path
+         d="m 149.52876,1008.1135 0,-0.7875 c -0.12375,0.034 -0.27,0.045 -0.45,0.045 -0.405,0 -0.5175,-0.1125 -0.5175,-0.5288 l 0,-3.8587 0.9675,0 0,-0.765 -0.9675,0 0,-1.62 -0.93375,0 0,1.62 -0.79875,0 0,0.765 0.79875,0 0,4.275 c 0,0.5962 0.405,0.9337 1.13625,0.9337 0.225,0 0.45,-0.022 0.765,-0.079 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start"
+         id="path4319" />
+    </g>
+    <g
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4158">
+      <path
+         d="m 28.515376,959.31176 c -0.113002,-0.0753 -0.251116,-0.0879 -0.376674,-0.0377 l -3.867187,1.54437 -3.867188,-1.54437 c -0.100446,-0.0439 -0.200892,-0.0439 -0.301339,0 l -4.017857,1.60714 c -0.15067,0.0565 -0.251116,0.20718 -0.251116,0.3704 l 0,8.83929 c 0,0.13183 0.06906,0.25739 0.175781,0.33273 0.06906,0.0439 0.144392,0.0691 0.226005,0.0691 0.05022,0 0.100446,-0.006 0.150669,-0.0314 l 3.867188,-1.54436 3.867187,1.54436 c 0.100447,0.0439 0.200893,0.0439 0.30134,0 l 4.017857,-1.60714 c 0.150669,-0.0565 0.251116,-0.20717 0.251116,-0.3704 l 0,-8.83928 c 0,-0.13184 -0.06906,-0.2574 -0.175782,-0.33273 z m -8.060825,0.84752 3.616071,1.44391 0,7.97294 -3.616071,-1.44392 0,-7.97293 z m -3.816965,1.3623 3.415179,-1.3623 0,7.97293 -3.415179,1.36231 0,-7.97294 z m 11.25,6.69224 -3.415178,1.36231 0,-7.97294 3.415178,-1.3623 0,7.97293 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+         id="path4278" />
+    </g>
+    <g
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4162">
+      <path
+         d="m 27.887587,1007.612 c 0,0.1068 -0.09417,0.2009 -0.200893,0.2009 l -9.241071,0 c -0.106725,0 -0.200893,-0.094 -0.200893,-0.2009 l 0,-4.8214 c 0.131836,0.1507 0.276227,0.2888 0.433175,0.4143 0.89774,0.6906 1.801758,1.3937 2.674386,2.122 0.470843,0.3955 1.054688,0.8789 1.707589,0.8789 l 0.0063,0 0.0063,0 c 0.652902,0 1.236747,-0.4834 1.707589,-0.8789 0.872629,-0.7283 1.776647,-1.4314 2.674387,-2.122 0.156947,-0.1255 0.301339,-0.2636 0.433175,-0.4143 l 0,4.8214 z m 0,-6.598 c 0,0.5336 -0.514788,1.2304 -0.922852,1.5506 -0.841239,0.6592 -1.682477,1.3246 -2.517438,1.9901 -0.332729,0.2699 -0.935408,0.8475 -1.374861,0.8475 l -0.0063,0 -0.0063,0 c -0.439453,0 -1.042131,-0.5776 -1.37486,-0.8475 -0.834961,-0.6655 -1.6762,-1.3309 -2.517439,-1.9901 -0.565011,-0.4457 -0.922851,-1.0672 -0.922851,-1.7829 0,-0.1067 0.09417,-0.2009 0.200893,-0.2009 l 9.241071,0 c 0.23856,0 0.200893,0.2762 0.200893,0.4332 z m 0.803571,-0.2323 c 0,-0.5525 -0.452009,-1.00449 -1.004464,-1.00449 l -9.241071,0 c -0.552456,0 -1.004465,0.45199 -1.004465,1.00449 l 0,6.8303 c 0,0.5525 0.452009,1.0045 1.004465,1.0045 l 9.241071,0 c 0.552455,0 1.004464,-0.452 1.004464,-1.0045 l 0,-6.8303 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+         id="path4275" />
+    </g>
+    <g
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4166">
+      <path
+         d="m 26.280444,1033.6067 c 0,-0.113 -0.08789,-0.2009 -0.200893,-0.2009 l -0.401786,0 c -0.113002,0 -0.200892,0.088 -0.200892,0.2009 l 0,2.009 c 0,0.5524 -0.452009,1.0044 -1.004465,1.0044 l -5.223214,0 c -0.552455,0 -1.004464,-0.452 -1.004464,-1.0044 l 0,-5.2232 c 0,-0.5525 0.452009,-1.0045 1.004464,-1.0045 l 4.419643,0 c 0.113002,0 0.200893,-0.088 0.200893,-0.2009 l 0,-0.4018 c 0,-0.113 -0.08789,-0.2009 -0.200893,-0.2009 l -4.419643,0 c -0.998186,0 -1.808036,0.8099 -1.808036,1.8081 l 0,5.2232 c 0,0.9982 0.80985,1.808 1.808036,1.808 l 5.223214,0 c 0.998187,0 1.808036,-0.8098 1.808036,-1.808 l 0,-2.009 z m 2.410714,-5.4241 c 0,-0.2197 -0.182059,-0.4018 -0.401785,-0.4018 l -3.214286,0 c -0.219727,0 -0.401786,0.1821 -0.401786,0.4018 0,0.1068 0.04395,0.2072 0.11928,0.2825 l 1.104911,1.105 -4.093192,4.0931 c -0.03767,0.038 -0.06278,0.094 -0.06278,0.1444 0,0.05 0.02511,0.1068 0.06278,0.1444 l 0.715681,0.7157 c 0.03767,0.038 0.09417,0.063 0.144392,0.063 0.05022,0 0.106724,-0.025 0.144391,-0.063 l 4.093192,-4.0932 1.104911,1.1049 c 0.07533,0.075 0.175781,0.1193 0.282506,0.1193 0.219726,0 0.401785,-0.1821 0.401785,-0.4018 l 0,-3.2143 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+         id="path4272" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3376"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3378"><rect
+           id="rect3380"
+           width="304.28571"
+           height="101.78571"
+           x="-5.7142859"
+           y="-14.046681" /></flowRegion><flowPara
+         id="flowPara3382" /></flowRoot>    <g
+       id="g4198"
+       transform="translate(-3.1659855,6.6116703)">
+      <g
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#761407;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3372">
+        <path
+           d="m 47.541838,886.40347 0,-2.125 c -0.35,-0.05 -0.525,-0.075 -0.8,-0.075 -1.35,0 -2.375,0.8 -3.575,2.75 l 0,-2.375 -1.9,0 0,13.1 2.075,0 0,-6.8 c 0,-2.95 0.975,-4.425 4.2,-4.475 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#761407;fill-opacity:1"
+           id="path4176" />
+        <path
+           d="m 60.447307,891.72847 c 0,-1.9 -0.15,-3.1 -0.525,-4.075 -0.85,-2.15 -2.85,-3.45 -5.3,-3.45 -3.65,0 -6,2.7 -6,7 0,4.3 2.275,6.85 5.95,6.85 3,0 5.075,-1.7 5.6,-4.35 l -2.1,0 c -0.575,1.725 -1.75,2.425 -3.425,2.425 -2.175,0 -3.8,-1.4 -3.85,-4.4 l 9.65,0 z m -2.225,-1.85 c 0,0 0,0.1 -0.025,0.15 l -7.35,0 c 0.175,-2.325 1.65,-3.9 3.75,-3.9 2.05,0 3.625,1.7 3.625,3.75 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#761407;fill-opacity:1"
+           id="path4178" />
+        <path
+           d="m 74.913322,897.62847 0,-1.575 c -0.225,0.05 -0.325,0.05 -0.45,0.05 -0.725,0 -1.125,-0.375 -1.125,-1.025 l 0,-7.3 c 0,-2.325 -1.7,-3.575 -4.925,-3.575 -3.175,0 -5.125,1.225 -5.25,4.25 l 2.1,0 c 0.175,-1.6 1.125,-2.325 3.075,-2.325 1.875,0 2.925,0.7 2.925,1.95 l 0,0.55 c 0,0.875 -0.525,1.25 -2.175,1.45 -2.95,0.375 -3.4,0.475 -4.2,0.8 -1.525,0.625 -2.3,1.8 -2.3,3.4 0,2.375 1.65,3.775 4.3,3.775 1.675,0 3.3,-0.7 4.45,-1.925 0.225,1 1.125,1.725 2.15,1.725 0.425,0 0.75,-0.05 1.425,-0.225 z m -3.65,-4.475 c 0,1.875 -1.9,3.075 -3.925,3.075 -1.625,0 -2.575,-0.575 -2.575,-2 0,-1.375 0.925,-1.975 3.15,-2.3 2.2,-0.3 2.65,-0.4 3.35,-0.725 l 0,1.95 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#761407;fill-opacity:1"
+           id="path4180" />
+        <path
+           d="m 79.229338,897.67847 0,-18.225 -2.075,0 0,18.225 2.075,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#761407;fill-opacity:1"
+           id="path4182" />
+        <path
+           d="m 89.045744,886.40347 0,-2.125 c -0.35,-0.05 -0.525,-0.075 -0.8,-0.075 -1.35,0 -2.375,0.8 -3.575,2.75 l 0,-2.375 -1.9,0 0,13.1 2.075,0 0,-6.8 c 0,-2.95 0.975,-4.425 4.2,-4.475 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#761407;fill-opacity:1"
+           id="path4184" />
+        <path
+           d="m 102.59887,897.62847 0,-1.575 c -0.225,0.05 -0.325,0.05 -0.45,0.05 -0.725,0 -1.125,-0.375 -1.125,-1.025 l 0,-7.3 c 0,-2.325 -1.700001,-3.575 -4.925001,-3.575 -3.175,0 -5.125,1.225 -5.25,4.25 l 2.1,0 c 0.175,-1.6 1.125,-2.325 3.075,-2.325 1.875,0 2.925,0.7 2.925,1.95 l 0,0.55 c 0,0.875 -0.525,1.25 -2.175,1.45 -2.95,0.375 -3.4,0.475 -4.2,0.8 -1.525,0.625 -2.3,1.8 -2.3,3.4 0,2.375 1.65,3.775 4.3,3.775 1.675,0 3.3,-0.7 4.45,-1.925 0.225,1 1.125001,1.725 2.150001,1.725 0.425,0 0.75,-0.05 1.425,-0.225 z m -3.650001,-4.475 c 0,1.875 -1.9,3.075 -3.925,3.075 -1.625,0 -2.575,-0.575 -2.575,-2 0,-1.375 0.925,-1.975 3.15,-2.3 2.2,-0.3 2.65,-0.4 3.35,-0.725 l 0,1.95 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#761407;fill-opacity:1"
+           id="path4186" />
+        <path
+           d="m 115.18988,897.67847 0,-13.1 -2.075,0 0,7.225 c 0,2.675 -1.4,4.425 -3.575,4.425 -1.65,0 -2.7,-1 -2.7,-2.575 l 0,-9.075 -2.075,0 0,9.9 c 0,2.175 1.625,3.575 4.175,3.575 1.925,0 3.15,-0.675 4.375,-2.4 l 0,2.025 1.875,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#761407;fill-opacity:1"
+           id="path4188" />
+        <path
+           d="m 136.0559,897.67847 0,-9.825 c 0,-2.35 -1.3,-3.65 -3.75,-3.65 -1.75,0 -2.8,0.525 -4.025,2 -0.775,-1.4 -1.825,-2 -3.525,-2 -1.75,0 -2.9,0.65 -4.025,2.225 l 0,-1.85 -1.9,0 0,13.1 2.075,0 0,-8.225 c 0,-1.9 1.375,-3.425 3.075,-3.425 1.55,0 2.425,0.95 2.425,2.625 l 0,9.025 2.075,0 0,-8.225 c 0,-1.9 1.4,-3.425 3.1,-3.425 1.525,0 2.4,0.975 2.4,2.625 l 0,9.025 2.075,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#761407;fill-opacity:1"
+           id="path4190" />
+      </g>
+      <g
+         style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text4184">
+        <path
+           d="m 46.855046,906.34061 -0.86625,0 -1.7675,5.39875 -1.8725,-5.39875 -0.875,0 2.2925,6.37875 0.875,0 2.21375,-6.37875 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4193" />
+        <path
+           d="m 51.066257,910.63686 c 0,-0.665 -0.0525,-1.085 -0.18375,-1.42625 -0.2975,-0.7525 -0.9975,-1.2075 -1.855,-1.2075 -1.2775,0 -2.1,0.945 -2.1,2.45 0,1.505 0.79625,2.3975 2.0825,2.3975 1.05,0 1.77625,-0.595 1.96,-1.5225 l -0.735,0 c -0.20125,0.60375 -0.6125,0.84875 -1.19875,0.84875 -0.76125,0 -1.33,-0.49 -1.3475,-1.54 l 3.3775,0 z m -0.77875,-0.6475 c 0,0 0,0.035 -0.0087,0.0525 l -2.5725,0 c 0.06125,-0.81375 0.5775,-1.365 1.3125,-1.365 0.7175,0 1.26875,0.595 1.26875,1.3125 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4195" />
+        <path
+           d="m 54.256862,908.77311 0,-0.74375 c -0.1225,-0.0175 -0.18375,-0.0263 -0.28,-0.0263 -0.4725,0 -0.83125,0.28 -1.25125,0.9625 l 0,-0.83125 -0.665,0 0,4.585 0.72625,0 0,-2.38 c 0,-1.0325 0.34125,-1.54875 1.47,-1.56625 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4197" />
+        <path
+           d="m 58.773777,910.63686 c 0,-0.665 -0.0525,-1.085 -0.18375,-1.42625 -0.2975,-0.7525 -0.9975,-1.2075 -1.855,-1.2075 -1.2775,0 -2.1,0.945 -2.1,2.45 0,1.505 0.79625,2.3975 2.0825,2.3975 1.05,0 1.77625,-0.595 1.96,-1.5225 l -0.735,0 c -0.20125,0.60375 -0.6125,0.84875 -1.19875,0.84875 -0.76125,0 -1.33,-0.49 -1.3475,-1.54 l 3.3775,0 z m -0.77875,-0.6475 c 0,0 0,0.035 -0.0087,0.0525 l -2.5725,0 c 0.06125,-0.81375 0.5775,-1.365 1.3125,-1.365 0.7175,0 1.26875,0.595 1.26875,1.3125 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4199" />
+        <path
+           d="m 60.494382,912.71936 0,-4.585 -0.72625,0 0,4.585 0.72625,0 z m 0.09625,-5.27625 0,-0.91 -0.91,0 0,0.91 0.91,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4201" />
+        <path
+           d="m 65.365124,912.71936 0,-3.465 c 0,-0.76125 -0.56875,-1.25125 -1.4525,-1.25125 -0.6825,0 -1.12,0.2625 -1.5225,0.90125 l 0,-0.77 -0.67375,0 0,4.585 0.72625,0 0,-2.52875 c 0,-0.93625 0.5075,-1.54875 1.25125,-1.54875 0.5775,0 0.945,0.35 0.945,0.90125 l 0,3.17625 0.72625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4203" />
+        <path
+           d="m 70.658737,908.72936 0,-0.595 -0.76125,0 0,-0.7175 c 0,-0.30625 0.175,-0.46375 0.5075,-0.46375 0.06125,0 0.0875,0 0.25375,0.009 l 0,-0.60375 c -0.16625,-0.035 -0.2625,-0.0438 -0.41125,-0.0438 -0.67375,0 -1.07625,0.385 -1.07625,1.04125 l 0,0.77875 -0.6125,0 0,0.595 0.6125,0 0,3.99 0.72625,0 0,-3.99 0.76125,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4205" />
+        <path
+           d="m 75.045495,912.71936 0,-4.585 -0.72625,0 0,2.52875 c 0,0.93625 -0.49,1.54875 -1.25125,1.54875 -0.5775,0 -0.945,-0.35 -0.945,-0.90125 l 0,-3.17625 -0.72625,0 0,3.465 c 0,0.76125 0.56875,1.25125 1.46125,1.25125 0.67375,0 1.1025,-0.23625 1.53125,-0.84 l 0,0.70875 0.65625,0 z m -2.1,-5.285 0,-0.8925 -0.79625,0 0,0.8925 0.79625,0 z m 1.4175,0 0,-0.8925 -0.79625,0 0,0.8925 0.79625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4207" />
+        <path
+           d="m 78.507351,908.77311 0,-0.74375 c -0.1225,-0.0175 -0.18375,-0.0263 -0.28,-0.0263 -0.4725,0 -0.83125,0.28 -1.25125,0.9625 l 0,-0.83125 -0.665,0 0,4.585 0.72625,0 0,-2.38 c 0,-1.0325 0.34125,-1.54875 1.47,-1.56625 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4209" />
+        <path
+           d="m 86.236472,907.05811 0,-0.7175 -5.005,0 0,0.7175 2.1,0 0,5.66125 0.81375,0 0,-5.66125 2.09125,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4211" />
+        <path
+           d="m 90.048191,910.63686 c 0,-0.665 -0.0525,-1.085 -0.18375,-1.42625 -0.2975,-0.7525 -0.9975,-1.2075 -1.855,-1.2075 -1.2775,0 -2.1,0.945 -2.1,2.45 0,1.505 0.79625,2.3975 2.0825,2.3975 1.05,0 1.77625,-0.595 1.96,-1.5225 l -0.735,0 c -0.20125,0.60375 -0.6125,0.84875 -1.19875,0.84875 -0.76125,0 -1.33,-0.49 -1.3475,-1.54 l 3.3775,0 z m -0.77875,-0.6475 c 0,0 0,0.035 -0.0088,0.0525 l -2.5725,0 c 0.06125,-0.81375 0.5775,-1.365 1.3125,-1.365 0.7175,0 1.26875,0.595 1.26875,1.3125 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4213" />
+        <path
+           d="m 94.603796,911.14436 -0.735,0 c -0.1225,0.735 -0.49875,1.0325 -1.12,1.0325 -0.805,0 -1.28625,-0.62125 -1.28625,-1.70625 0,-1.14625 0.4725,-1.79375 1.26875,-1.79375 0.6125,0 0.9975,0.35875 1.085,0.9975 l 0.735,0 c -0.0875,-1.12 -0.7875,-1.67125 -1.81125,-1.67125 -1.23375,0 -2.03875,0.945 -2.03875,2.4675 0,1.47875 0.7875,2.38 2.03,2.38 1.09375,0 1.785,-0.65625 1.8725,-1.70625 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4215" />
+        <path
+           d="m 99.057546,912.71936 0,-3.465 c 0,-0.77 -0.55125,-1.25125 -1.44375,-1.25125 -0.6475,0 -1.04125,0.20125 -1.47,0.76125 l 0,-2.42375 -0.72625,0 0,6.37875 0.72625,0 0,-2.52875 c 0,-0.93625 0.49,-1.54875 1.2425,-1.54875 0.51625,0 0.945,0.2975 0.945,0.90125 l 0,3.17625 0.72625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4217" />
+        <path
+           d="m 103.9369,912.71936 0,-3.465 c 0,-0.76125 -0.56875,-1.25125 -1.4525,-1.25125 -0.6825,0 -1.12,0.2625 -1.5225,0.90125 l 0,-0.77 -0.67375,0 0,4.585 0.72625,0 0,-2.52875 c 0,-0.93625 0.5075,-1.54875 1.25125,-1.54875 0.5775,0 0.945,0.35 0.945,0.90125 l 0,3.17625 0.72625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4219" />
+        <path
+           d="m 105.88501,912.71936 0,-4.585 -0.72625,0 0,4.585 0.72625,0 z m 0.0963,-5.27625 0,-0.91 -0.91,0 0,0.91 0.91,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4221" />
+        <path
+           d="m 110.887,912.71936 -1.8725,-3.00125 1.5925,-1.58375 -0.93625,0 -1.9425,1.9425 0,-3.73625 -0.72625,0 0,6.37875 0.72625,0 0,-1.785 0.70875,-0.7 1.54875,2.485 0.90125,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4223" />
+        <path
+           d="m 114.63501,912.71936 0,-4.585 -0.72625,0 0,4.585 0.72625,0 z m 0.0963,-5.27625 0,-0.91 -0.91,0 0,0.91 0.91,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4225" />
+        <path
+           d="m 119.50575,912.71936 0,-3.465 c 0,-0.76125 -0.56875,-1.25125 -1.4525,-1.25125 -0.6825,0 -1.12,0.2625 -1.5225,0.90125 l 0,-0.77 -0.67375,0 0,4.585 0.72625,0 0,-2.52875 c 0,-0.93625 0.5075,-1.54875 1.25125,-1.54875 0.5775,0 0.945,0.35 0.945,0.90125 l 0,3.17625 0.72625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4227" />
+        <path
+           d="m 128.29936,912.71936 -2.625,-3.78 2.59875,-2.59875 -1.05,0 -3.17625,3.22875 0,-3.22875 -0.81375,0 0,6.37875 0.81375,0 0,-2.23125 1.04125,-1.04125 2.24875,3.2725 0.9625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4229" />
+        <path
+           d="m 132.43319,912.71936 0,-4.585 -0.72625,0 0,2.52875 c 0,0.93625 -0.49,1.54875 -1.25125,1.54875 -0.5775,0 -0.945,-0.35 -0.945,-0.90125 l 0,-3.17625 -0.72625,0 0,3.465 c 0,0.76125 0.56875,1.25125 1.46125,1.25125 0.67375,0 1.1025,-0.23625 1.53125,-0.84 l 0,0.70875 0.65625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4231" />
+        <path
+           d="m 134.40755,912.71936 0,-6.37875 -0.72625,0 0,6.37875 0.72625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4233" />
+        <path
+           d="m 137.25704,912.71936 0,-0.6125 c -0.0962,0.0263 -0.21,0.035 -0.35,0.035 -0.315,0 -0.4025,-0.0875 -0.4025,-0.41125 l 0,-3.00125 0.7525,0 0,-0.595 -0.7525,0 0,-1.26 -0.72625,0 0,1.26 -0.62125,0 0,0.595 0.62125,0 0,3.325 c 0,0.46375 0.315,0.72625 0.88375,0.72625 0.175,0 0.35,-0.0175 0.595,-0.0612 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4235" />
+        <path
+           d="m 141.6788,912.71936 0,-4.585 -0.72625,0 0,2.52875 c 0,0.93625 -0.49,1.54875 -1.25125,1.54875 -0.5775,0 -0.945,-0.35 -0.945,-0.90125 l 0,-3.17625 -0.72625,0 0,3.465 c 0,0.76125 0.56875,1.25125 1.46125,1.25125 0.67375,0 1.1025,-0.23625 1.53125,-0.84 l 0,0.70875 0.65625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4237" />
+        <path
+           d="m 145.14065,908.77311 0,-0.74375 c -0.1225,-0.0175 -0.18375,-0.0263 -0.28,-0.0263 -0.4725,0 -0.83125,0.28 -1.25125,0.9625 l 0,-0.83125 -0.665,0 0,4.585 0.72625,0 0,-2.38 c 0,-1.0325 0.34125,-1.54875 1.47,-1.56625 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4239" />
+        <path
+           d="m 45.428796,923.65686 0,-4.585 -0.72625,0 0,2.52875 c 0,0.93625 -0.49,1.54875 -1.25125,1.54875 -0.5775,0 -0.945,-0.35 -0.945,-0.90125 l 0,-3.17625 -0.72625,0 0,3.465 c 0,0.76125 0.56875,1.25125 1.46125,1.25125 0.67375,0 1.1025,-0.23625 1.53125,-0.84 l 0,0.70875 0.65625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4241" />
+        <path
+           d="m 50.343152,923.65686 0,-3.465 c 0,-0.76125 -0.56875,-1.25125 -1.4525,-1.25125 -0.6825,0 -1.12,0.2625 -1.5225,0.90125 l 0,-0.77 -0.67375,0 0,4.585 0.72625,0 0,-2.52875 c 0,-0.93625 0.5075,-1.54875 1.25125,-1.54875 0.5775,0 0.945,0.35 0.945,0.90125 l 0,3.17625 0.72625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4243" />
+        <path
+           d="m 55.283757,923.65686 0,-6.37875 -0.72625,0 0,2.37125 c -0.30625,-0.46375 -0.79625,-0.70875 -1.40875,-0.70875 -1.19,0 -1.96875,0.91875 -1.96875,2.38 0,1.54875 0.76125,2.4675 1.995,2.4675 0.63,0 1.0675,-0.23625 1.46125,-0.805 l 0,0.67375 0.6475,0 z m -0.72625,-2.275 c 0,1.05875 -0.5075,1.72375 -1.2775,1.72375 -0.805,0 -1.33875,-0.67375 -1.33875,-1.74125 0,-1.0675 0.53375,-1.74125 1.33,-1.74125 0.7875,0 1.28625,0.7 1.28625,1.75875 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4245" />
+        <path
+           d="m 64.45362,923.65686 0,-3.36875 -2.66,0 0,0.7175 1.9425,0 0,0.175 c 0,1.1375 -0.84,1.91625 -2.00375,1.91625 -1.44375,0 -2.28375,-1.05 -2.28375,-2.6075 0,-1.56625 0.8925,-2.65125 2.24,-2.65125 0.97125,0 1.67125,0.55125 1.84625,1.37375 l 0.83125,0 c -0.2275,-1.295 -1.2075,-2.09125 -2.66875,-2.09125 -1.95125,0 -3.0625,1.505 -3.0625,3.4125 0,1.96 1.19875,3.28125 2.9225,3.28125 0.86625,0 1.5575,-0.30625 2.17875,-0.9975 l 0.20125,0.84 0.51625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4247" />
+        <path
+           d="m 69.540378,921.57436 c 0,-0.665 -0.0525,-1.085 -0.18375,-1.42625 -0.2975,-0.7525 -0.9975,-1.2075 -1.855,-1.2075 -1.2775,0 -2.1,0.945 -2.1,2.45 0,1.505 0.79625,2.3975 2.0825,2.3975 1.05,0 1.77625,-0.595 1.96,-1.5225 l -0.735,0 c -0.20125,0.60375 -0.6125,0.84875 -1.19875,0.84875 -0.76125,0 -1.33,-0.49 -1.3475,-1.54 l 3.3775,0 z m -0.77875,-0.6475 c 0,0 0,0.035 -0.0088,0.0525 l -2.5725,0 c 0.06125,-0.81375 0.5775,-1.365 1.3125,-1.365 0.7175,0 1.26875,0.595 1.26875,1.3125 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4249" />
+        <path
+           d="m 73.938484,922.37061 c 0,-0.6825 -0.385,-1.02375 -1.295,-1.2425 l -0.7,-0.16625 c -0.595,-0.14 -0.84875,-0.3325 -0.84875,-0.65625 0,-0.42 0.37625,-0.69125 0.97125,-0.69125 0.58625,0 0.90125,0.25375 0.91875,0.735 l 0.77,0 c -0.0087,-0.90125 -0.60375,-1.40875 -1.6625,-1.40875 -1.0675,0 -1.75875,0.55125 -1.75875,1.4 0,0.7175 0.3675,1.05875 1.4525,1.32125 l 0.6825,0.16625 c 0.5075,0.1225 0.70875,0.27125 0.70875,0.60375 0,0.42875 -0.42875,0.6825 -1.0675,0.6825 -0.65625,0 -1.02375,-0.1575 -1.12,-0.8575 l -0.77,0 c 0.035,1.05875 0.63,1.53125 1.82875,1.53125 1.155,0 1.89,-0.53375 1.89,-1.4175 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4251" />
+        <path
+           d="m 78.785984,921.57436 c 0,-0.665 -0.0525,-1.085 -0.18375,-1.42625 -0.2975,-0.7525 -0.9975,-1.2075 -1.855,-1.2075 -1.2775,0 -2.1,0.945 -2.1,2.45 0,1.505 0.79625,2.3975 2.0825,2.3975 1.05,0 1.77625,-0.595 1.96,-1.5225 l -0.735,0 c -0.20125,0.60375 -0.6125,0.84875 -1.19875,0.84875 -0.76125,0 -1.33,-0.49 -1.3475,-1.54 l 3.3775,0 z m -0.77875,-0.6475 c 0,0 0,0.035 -0.0087,0.0525 l -2.5725,0 c 0.06125,-0.81375 0.5775,-1.365 1.3125,-1.365 0.7175,0 1.26875,0.595 1.26875,1.3125 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4253" />
+        <path
+           d="m 80.489089,923.65686 0,-6.37875 -0.72625,0 0,6.37875 0.72625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4255" />
+        <path
+           d="m 82.437331,923.65686 0,-6.37875 -0.72625,0 0,6.37875 0.72625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4257" />
+        <path
+           d="m 87.080573,922.37061 c 0,-0.6825 -0.385,-1.02375 -1.295,-1.2425 l -0.7,-0.16625 c -0.595,-0.14 -0.84875,-0.3325 -0.84875,-0.65625 0,-0.42 0.37625,-0.69125 0.97125,-0.69125 0.58625,0 0.90125,0.25375 0.91875,0.735 l 0.77,0 c -0.0087,-0.90125 -0.60375,-1.40875 -1.6625,-1.40875 -1.0675,0 -1.75875,0.55125 -1.75875,1.4 0,0.7175 0.3675,1.05875 1.4525,1.32125 l 0.6825,0.16625 c 0.5075,0.1225 0.70875,0.27125 0.70875,0.60375 0,0.42875 -0.42875,0.6825 -1.0675,0.6825 -0.65625,0 -1.02375,-0.1575 -1.12,-0.8575 l -0.77,0 c 0.035,1.05875 0.63,1.53125 1.82875,1.53125 1.155,0 1.89,-0.53375 1.89,-1.4175 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4259" />
+        <path
+           d="m 91.613073,922.08186 -0.735,0 c -0.1225,0.735 -0.49875,1.0325 -1.12,1.0325 -0.805,0 -1.28625,-0.62125 -1.28625,-1.70625 0,-1.14625 0.4725,-1.79375 1.26875,-1.79375 0.6125,0 0.9975,0.35875 1.085,0.9975 l 0.735,0 c -0.0875,-1.12 -0.7875,-1.67125 -1.81125,-1.67125 -1.23375,0 -2.03875,0.945 -2.03875,2.4675 0,1.47875 0.7875,2.38 2.03,2.38 1.09375,0 1.785,-0.65625 1.8725,-1.70625 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4261" />
+        <path
+           d="m 96.066823,923.65686 0,-3.465 c 0,-0.77 -0.55125,-1.25125 -1.44375,-1.25125 -0.6475,0 -1.04125,0.20125 -1.47,0.76125 l 0,-2.42375 -0.72625,0 0,6.37875 0.72625,0 0,-2.52875 c 0,-0.93625 0.49,-1.54875 1.2425,-1.54875 0.51625,0 0.945,0.2975 0.945,0.90125 l 0,3.17625 0.72625,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4263" />
+        <path
+           d="m 101.36618,923.63936 0,-0.55125 c -0.0787,0.0175 -0.11375,0.0175 -0.1575,0.0175 -0.25375,0 -0.39375,-0.13125 -0.39375,-0.35875 l 0,-2.555 c 0,-0.81375 -0.595,-1.25125 -1.723751,-1.25125 -1.11125,0 -1.79375,0.42875 -1.8375,1.4875 l 0.735,0 c 0.06125,-0.56 0.39375,-0.81375 1.07625,-0.81375 0.65625,0 1.023751,0.245 1.023751,0.6825 l 0,0.1925 c 0,0.30625 -0.183751,0.4375 -0.761251,0.5075 -1.0325,0.13125 -1.19,0.16625 -1.47,0.28 -0.53375,0.21875 -0.805,0.63 -0.805,1.19 0,0.83125 0.5775,1.32125 1.505,1.32125 0.58625,0 1.155,-0.245 1.557501,-0.67375 0.0787,0.35 0.39375,0.60375 0.7525,0.60375 0.14875,0 0.2625,-0.0175 0.49875,-0.0788 z m -1.2775,-1.56625 c 0,0.65625 -0.665001,1.07625 -1.373751,1.07625 -0.56875,0 -0.90125,-0.20125 -0.90125,-0.7 0,-0.48125 0.32375,-0.69125 1.1025,-0.805 0.77,-0.105 0.9275,-0.14 1.172501,-0.25375 l 0,0.6825 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4265" />
+        <path
+           d="m 103.81303,919.66686 0,-0.595 -0.76125,0 0,-0.7175 c 0,-0.30625 0.175,-0.46375 0.5075,-0.46375 0.0613,0 0.0875,0 0.25375,0.009 l 0,-0.60375 c -0.16625,-0.035 -0.2625,-0.0438 -0.41125,-0.0438 -0.67375,0 -1.07625,0.385 -1.07625,1.04125 l 0,0.77875 -0.6125,0 0,0.595 0.6125,0 0,3.99 0.72625,0 0,-3.99 0.76125,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4267" />
+        <path
+           d="m 106.42696,923.65686 0,-0.6125 c -0.0962,0.0263 -0.21,0.035 -0.35,0.035 -0.315,0 -0.4025,-0.0875 -0.4025,-0.41125 l 0,-3.00125 0.7525,0 0,-0.595 -0.7525,0 0,-1.26 -0.72625,0 0,1.26 -0.62125,0 0,0.595 0.62125,0 0,3.325 c 0,0.46375 0.315,0.72625 0.88375,0.72625 0.175,0 0.35,-0.0175 0.595,-0.0612 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros'"
+           id="path4269" />
+      </g>
+    </g>
+  </g>
+</svg>
