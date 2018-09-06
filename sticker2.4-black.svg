@@ -22,8 +22,8 @@
    inkscape:export-ydpi="275.48813"
    viewBox="0 0 177.16536 177.16535">
   <sodipodi:namedview
-     inkscape:window-height="1172"
-     inkscape:window-width="1600"
+     inkscape:window-height="1368"
+     inkscape:window-width="2560"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -35,10 +35,10 @@
      id="base"
      showgrid="false"
      inkscape:zoom="3.1331118"
-     inkscape:cx="-29.67459"
+     inkscape:cx="-100.21149"
      inkscape:cy="147.23897"
-     inkscape:window-x="3520"
-     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
      inkscape:current-layer="svg2"
      inkscape:document-units="mm"
      units="mm"
@@ -94,28 +94,6 @@
      d="M 87.439516,0.00121349 C 39.067081,0.61461349 -3.8962776e-5,40.083043 -3.8962776e-5,88.598973 -3.8962776e-5,137.4969 39.698592,177.16547 88.597721,177.16547 c 48.899139,0 88.564559,-39.66857 88.564559,-88.566497 0,-0.38203 0.007,-0.77537 0,-1.15625 V 17.639903 C 176.96825,7.9164735 169.05809,0.07446349 159.30483,0.00121349 H 88.597721 88.189518 c -0.245921,0 -0.503712,-0.003 -0.750002,0 z"
      style="fill:#ffffff;fill-opacity:1;stroke:none"
      sodipodi:nodetypes="csssccccsc" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:11.79732609px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98311055"
-     x="9.4639778"
-     y="172.69664"
-     id="text3529"><tspan
-       sodipodi:role="line"
-       id="tspan3531"
-       x="9.4639778"
-       y="172.69664"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.46465302px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.98311055"> </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:11.79732609px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98311055"
-     x="20.149424"
-     y="171.7319"
-     id="text3537"><tspan
-       sodipodi:role="line"
-       id="tspan3539"
-       x="20.149424"
-       y="171.7319"
-       style="font-size:27.52709389px;line-height:1.25;font-family:sans-serif;stroke-width:0.98311055"> </tspan></text>
   <g
      id="g3230"
      transform="matrix(0.98311052,0,0,0.98311052,1.4961143,1.4961146)">
